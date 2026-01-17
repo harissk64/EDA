@@ -1,0 +1,409 @@
+PatientID,Name,Age,Gender,Diagnosis,TreatmentCost,AdmissionDate,DischargeDate,Outcome,InsuranceProvider
+3001,Iris Jones,60,Female,Heart Disease,18030.76,2024-03-09,2024-03-17,Recovered,Aetna
+3002,Henry Smith,61,Male,Heart Disease,21824.92,2024-08-26,2024-09-08,Stable,None
+3003,Bob Davis,74,Female,Pneumonia,,2024-12-25,2025-01-06,Improved,Blue Cross
+3004,Iris Brown,42,Male,Hypertension,43709.32,2024-05-07,2024-05-15,Improved,Aetna
+3005,Henry Johnson,66,Male,Migraine,14013.19,2024-10-26,2024-10-31,Stable,Cigna
+3006,Grace Johnson,36,Other,Arthritis,7702.02,2024-07-17,2024-07-24,Improved,Cigna
+3007,Bob Martinez,50,Female,Diabetes,29885.72,2024-11-14,2024-11-24,Improved,None
+3008,Iris Garcia,,Male,Heart Disease,18993.11,2024-02-19,2024-03-01,Stable,Blue Cross
+3009,Jack Miller,70,Male,Flu,1739.50,2024-06-28,2024-07-12,Recovered,Aetna
+3010,David Jones,74,Male,Pneumonia,,2024-06-18,2024-06-19,Ongoing Treatment,Medicare
+3011,Frank Miller,34,Other,Pneumonia,2445.44,2024-03-01,2024-03-15,Stable,Blue Cross
+3012,David Rodriguez,77,Female,Allergies,37637.08,2024-05-25,2024-06-07,Improved,Cigna
+3013,David Garcia,41,Other,Heart Disease,8214.55,2024-02-06,2024-02-16,Stable,None
+3014,Grace Martinez,33,Female,Flu,42239.17,2024-11-29,2024-12-03,Recovered,Aetna
+3015,Frank Davis,68,Other,Hypertension,27071.73,2024-05-04,2024-05-14,Recovered,None
+3016,Henry Davis,,Male,Diabetes,2185.58,2024-10-29,2024-11-06,Stable,Medicare
+3017,Iris Jones,55,Female,Migraine,15656.07,2024-09-05,2024-09-11,Ongoing Treatment,Cigna
+3018,David Martinez,55,Female,Arthritis,41642.05,2024-04-20,2024-05-02,Recovered,Blue Cross
+3019,Jack Williams,40,Male,Arthritis,,2024-11-09,2024-11-16,Recovered,None
+3020,Eve Garcia,25,Male,Hypertension,33932.47,2024-10-25,2024-11-04,Recovered,UnitedHealth
+3021,Jack Martinez,34,Male,Asthma,,2024-03-30,2024-04-01,Stable,UnitedHealth
+3022,Grace Smith,50,Female,Arthritis,35519.91,2024-07-07,2024-07-21,Improved,Cigna
+3023,Henry Johnson,,Female,Hypertension,28614.34,2024-11-19,2024-12-02,Recovered,UnitedHealth
+3024,Alice Garcia,85,Other,Diabetes,31533.48,2024-02-14,2024-02-18,Ongoing Treatment,Blue Cross
+3025,Iris Williams,64,Other,COVID-19,,2024-02-21,2024-03-01,Recovered,Blue Cross
+3026,Alice Jones,23,Male,Arthritis,30454.65,2024-01-28,2024-02-03,Ongoing Treatment,Cigna
+3027,Alice Jones,64,Female,Hypertension,41605.63,2024-12-09,2024-12-11,Recovered,Blue Cross
+3028,David Rodriguez,63,Male,Asthma,22876.18,2024-06-26,2024-07-03,Improved,Blue Cross
+3029,Iris Brown,65,Male,Heart Disease,37420.37,2024-07-12,2024-07-19,Recovered,Blue Cross
+3030,Jack Miller,48,Female,COVID-19,30703.13,2024-09-28,2024-09-29,Stable,UnitedHealth
+3031,Alice Jones,76,Male,Diabetes,22142.30,2024-05-25,2024-06-06,Stable,Medicare
+3032,Grace Rodriguez,40,Male,Diabetes,27230.74,2024-06-09,2024-06-23,Ongoing Treatment,UnitedHealth
+3033,Henry Miller,80,Other,COVID-19,,2024-04-08,2024-04-12,Improved,Cigna
+3034,Carol Davis,66,Other,Flu,36517.04,2024-01-10,2024-01-23,Improved,UnitedHealth
+3035,Jack Miller,,Male,Heart Disease,2574.55,2024-05-17,2024-05-31,Ongoing Treatment,Blue Cross
+3036,Eve Williams,84,Male,COVID-19,,2024-11-13,2024-11-25,Ongoing Treatment,UnitedHealth
+3037,Henry Rodriguez,79,Male,Heart Disease,29446.96,2024-04-15,2024-04-28,Ongoing Treatment,UnitedHealth
+3038,David Miller,75,Other,Pneumonia,49203.44,2024-01-08,2024-01-22,Improved,UnitedHealth
+3039,David Davis,23,Female,Diabetes,35471.53,2024-08-25,2024-09-04,Improved,Aetna
+3040,David Smith,58,Male,Allergies,23067.10,2024-08-18,2024-08-20,Stable,Aetna
+3041,Grace Smith,61,Male,Pneumonia,41171.58,2024-10-13,2024-10-25,Ongoing Treatment,Cigna
+3042,Iris Williams,62,Other,Pneumonia,45572.73,2024-04-02,2024-04-03,Recovered,Cigna
+3043,Jack Martinez,28,Male,Flu,18868.35,2024-06-06,2024-06-19,Improved,Aetna
+3044,Alice Garcia,44,Other,Heart Disease,43540.17,2024-03-14,2024-03-15,Stable,Medicare
+3045,Frank Davis,75,Other,Hypertension,27353.69,2024-03-01,2024-03-07,Ongoing Treatment,UnitedHealth
+3046,Eve Brown,40,Other,Pneumonia,33552.43,2024-11-10,2024-11-19,Stable,UnitedHealth
+3047,Jack Johnson,49,Female,Flu,43479.53,2024-06-02,2024-06-06,Improved,UnitedHealth
+3048,Jack Williams,30,Female,Hypertension,43064.07,2024-06-24,2024-06-26,Ongoing Treatment,Blue Cross
+3049,Alice Rodriguez,48,Female,Heart Disease,12504.25,2024-08-28,2024-09-05,Improved,Cigna
+3050,Grace Davis,78,Other,Asthma,21670.11,2024-12-29,2025-01-03,Improved,None
+3050,Grace Davis,78,Other,Asthma,21670.11,2024-12-29,2025-01-03,Improved,None
+3051,Carol Brown,68,Other,Heart Disease,46806.20,2024-11-23,2024-12-02,Ongoing Treatment,Aetna
+3052,Jack Johnson,82,Male,COVID-19,20972.60,2024-01-28,2024-02-11,Recovered,Aetna
+3053,David Smith,40,Female,Arthritis,40054.78,2024-12-05,2024-12-12,Ongoing Treatment,UnitedHealth
+3054,Bob Garcia,55,Female,Migraine,33539.37,2024-08-22,2024-08-27,Improved,Medicare
+3055,Carol Jones,31,Male,Diabetes,29695.89,2024-10-18,2024-10-26,Recovered,Medicare
+3056,Eve Martinez,20,Other,Hypertension,42036.96,2024-08-20,2024-09-01,Ongoing Treatment,Medicare
+3057,Bob Jones,72,Male,Flu,25911.99,2024-04-23,2024-05-05,Stable,UnitedHealth
+3058,Grace Garcia,36,Other,Heart Disease,34815.41,2024-07-29,2024-08-07,Recovered,Blue Cross
+3059,Alice Jones,43,Male,Hypertension,31882.52,2024-02-13,2024-02-16,Ongoing Treatment,Cigna
+3060,Iris Johnson,57,Female,COVID-19,45146.89,2024-01-04,2024-01-07,Improved,Aetna
+3061,Carol Martinez,36,Male,Migraine,30605.03,2024-04-25,2024-05-08,Recovered,Medicare
+3062,David Williams,72,Female,Flu,46700.75,2024-04-08,2024-04-22,Stable,Blue Cross
+3063,Frank Martinez,58,Male,Pneumonia,45408.08,2024-12-29,2025-01-07,Stable,None
+3064,Alice Brown,63,Male,Allergies,46233.38,2024-07-07,2024-07-14,Recovered,None
+3065,Jack Rodriguez,,Female,Allergies,22847.90,2024-07-15,2024-07-19,Stable,Aetna
+3066,Henry Davis,71,Other,Allergies,4696.47,2024-10-17,2024-10-20,Stable,None
+3067,Frank Jones,49,Male,Arthritis,20448.35,2024-12-25,2025-01-01,Recovered,Cigna
+3068,Carol Davis,48,Male,Allergies,28524.74,2024-04-05,2024-04-12,Improved,Medicare
+3069,Bob Rodriguez,48,Male,COVID-19,43231.53,2024-07-20,2024-07-23,Ongoing Treatment,Medicare
+3070,Henry Martinez,41,Male,Pneumonia,37500.81,2024-10-07,2024-10-16,Improved,Cigna
+3071,Henry Smith,54,Male,Heart Disease,41864.35,2024-01-23,2024-01-31,Stable,Cigna
+3072,Iris Miller,82,Female,Asthma,24891.28,2024-06-22,2024-07-03,Improved,None
+3073,Carol Johnson,51,Male,Pneumonia,,2024-09-30,2024-10-12,Recovered,UnitedHealth
+3074,Alice Rodriguez,69,Female,Heart Disease,19055.48,2024-11-11,2024-11-25,Stable,Aetna
+3075,Eve Smith,35,Female,Pneumonia,39765.93,2024-08-02,2024-08-03,Ongoing Treatment,Aetna
+3076,David Jones,30,Female,Pneumonia,35902.28,2024-06-29,2024-07-12,Improved,Blue Cross
+3077,Frank Williams,35,Female,Heart Disease,32784.02,2024-11-24,2024-11-29,Stable,Aetna
+3078,Grace Smith,20,Female,Hypertension,45544.42,2024-11-25,2024-11-30,Recovered,Cigna
+3079,Alice Miller,73,Female,Hypertension,10789.30,2024-08-11,2024-08-24,Recovered,Cigna
+3080,Carol Jones,,Female,Flu,,2024-05-06,2024-05-17,Improved,Cigna
+3081,Jack Johnson,55,Female,Migraine,4015.96,2024-12-05,2024-12-09,Ongoing Treatment,Cigna
+3082,Carol Jones,45,Other,Pneumonia,5643.15,2024-01-09,2024-01-18,Recovered,Blue Cross
+3083,Grace Brown,59,Female,Heart Disease,18820.94,2024-05-27,2024-06-04,Ongoing Treatment,Aetna
+3084,Iris Brown,59,Female,Arthritis,8489.01,2024-08-19,2024-08-28,Improved,Cigna
+3085,Henry Davis,50,Male,Heart Disease,9306.35,2024-06-17,2024-06-19,Recovered,Medicare
+3086,Alice Garcia,,Male,COVID-19,9077.39,2024-08-09,2024-08-10,Ongoing Treatment,Aetna
+3087,Iris Jones,72,Female,Arthritis,,2024-06-23,2024-07-06,Recovered,Medicare
+3088,Henry Jones,29,Female,Hypertension,39479.22,2024-12-05,2024-12-19,Improved,Cigna
+3089,Carol Martinez,60,Male,Diabetes,45856.35,2024-11-18,2024-11-21,Recovered,Aetna
+3090,Carol Johnson,,Male,Allergies,26093.33,2024-08-12,2024-08-22,Improved,Aetna
+3091,Grace Martinez,29,Female,Arthritis,47778.11,2024-12-07,2024-12-20,Improved,Medicare
+3092,Alice Jones,50,Other,Allergies,39414.14,2024-09-02,2024-09-04,Ongoing Treatment,Aetna
+3093,Jack Davis,82,Other,Migraine,17607.80,2024-06-18,2024-06-28,Stable,Medicare
+3094,Iris Williams,53,Other,Heart Disease,21060.16,2024-04-07,2024-04-21,Improved,Cigna
+3095,Frank Brown,58,Male,Pneumonia,2951.47,2024-07-29,2024-08-08,Improved,Aetna
+3096,Iris Miller,81,Female,Heart Disease,30640.94,2024-02-19,2024-02-24,Improved,UnitedHealth
+3097,Iris Miller,41,Other,Asthma,23634.96,2024-07-30,2024-08-02,Stable,None
+3098,Alice Martinez,18,Male,Allergies,2054.27,2024-05-22,2024-05-24,Recovered,None
+3099,Alice Garcia,50,Male,Hypertension,2710.93,2024-11-06,2024-11-09,Stable,Medicare
+3100,Eve Miller,30,Female,COVID-19,37180.46,2024-04-11,2024-04-25,Recovered,Medicare
+3100,Eve Miller,30,Female,COVID-19,37180.46,2024-04-11,2024-04-25,Recovered,Medicare
+3101,Grace Garcia,39,Other,Heart Disease,,2024-05-29,2024-05-31,Recovered,None
+3102,Bob Garcia,30,Female,Heart Disease,39583.31,2024-08-29,2024-09-11,Stable,Aetna
+3103,Bob Jones,45,Other,Arthritis,15928.86,2024-12-15,2024-12-18,Ongoing Treatment,Cigna
+3104,Frank Smith,50,Other,Migraine,,2024-11-16,2024-11-21,Recovered,Cigna
+3105,Alice Davis,,Other,Hypertension,42517.23,2024-04-28,2024-05-10,Stable,Cigna
+3106,Jack Rodriguez,85,Female,Hypertension,15963.10,2024-05-20,2024-05-29,Improved,None
+3107,Iris Johnson,68,Other,Arthritis,30093.47,2024-02-20,2024-03-04,Stable,UnitedHealth
+3108,Grace Garcia,56,Female,Flu,25987.00,2024-02-04,2024-02-13,Improved,Cigna
+3109,Jack Brown,,Other,Flu,1891.19,2024-11-10,2024-11-22,Recovered,Blue Cross
+3110,Frank Jones,79,Other,Hypertension,23041.65,2024-08-06,2024-08-18,Stable,Cigna
+3111,Jack Martinez,41,Female,Migraine,22706.21,2024-10-26,2024-11-04,Improved,Aetna
+3112,Iris Williams,43,Other,Migraine,20682.25,2024-04-08,2024-04-14,Stable,None
+3113,Jack Miller,46,Female,Asthma,15490.28,2024-06-24,2024-07-04,Stable,None
+3114,Henry Rodriguez,57,Male,COVID-19,7977.75,2024-12-13,2024-12-20,Improved,Cigna
+3115,Jack Davis,43,Female,COVID-19,,2024-06-08,2024-06-16,Recovered,Blue Cross
+3116,Jack Davis,74,Female,Arthritis,11186.84,2024-10-29,2024-10-31,Recovered,Cigna
+3117,Eve Rodriguez,85,Other,Migraine,48267.39,2024-11-01,2024-11-13,Ongoing Treatment,Aetna
+3118,Bob Smith,,Female,Pneumonia,34522.69,2024-06-07,2024-06-09,Ongoing Treatment,Cigna
+3119,Carol Brown,80,Female,Diabetes,11175.23,2024-09-24,2024-09-28,Recovered,UnitedHealth
+3120,Alice Garcia,21,Other,Heart Disease,5718.61,2024-04-03,2024-04-09,Stable,Cigna
+3121,Eve Brown,63,Female,Heart Disease,26558.66,2024-10-03,2024-10-04,Stable,None
+3122,Frank Johnson,51,Male,Diabetes,5057.36,2024-11-15,2024-11-18,Stable,Blue Cross
+3123,Alice Johnson,45,Male,Flu,50942.02,2024-12-04,2024-12-09,Ongoing Treatment,UnitedHealth
+3124,Carol Williams,56,Other,Hypertension,4367.34,2024-11-23,2024-11-24,Stable,Cigna
+3125,Grace Miller,39,Male,Hypertension,11794.77,2024-01-08,2024-01-11,Improved,Blue Cross
+3126,Carol Johnson,66,Other,Heart Disease,40637.99,2024-02-19,2024-02-26,Stable,UnitedHealth
+3127,Carol Smith,,Female,Hypertension,44021.38,2024-07-18,2024-08-01,Ongoing Treatment,UnitedHealth
+3128,David Smith,63,Male,COVID-19,,2024-02-26,2024-02-28,Ongoing Treatment,Aetna
+3129,Alice Martinez,53,Other,Diabetes,32464.40,2024-09-09,2024-09-15,Stable,Blue Cross
+3130,David Brown,65,Other,Heart Disease,,2024-04-27,2024-05-11,Ongoing Treatment,Medicare
+3131,David Jones,85,Male,COVID-19,32962.19,2024-05-08,2024-05-09,Stable,Medicare
+3132,Alice Brown,79,Female,Diabetes,14623.11,2024-07-31,2024-08-13,Stable,Aetna
+3133,David Davis,77,Other,Allergies,30728.24,2024-10-10,2024-10-17,Recovered,None
+3134,Eve Johnson,21,Male,Flu,47638.04,2024-02-11,2024-02-18,Stable,Cigna
+3135,Iris Martinez,70,Female,Heart Disease,14570.08,2024-10-25,2024-10-30,Stable,UnitedHealth
+3136,Carol Williams,41,Female,Flu,22331.30,2024-10-19,2024-10-24,Ongoing Treatment,UnitedHealth
+3137,Carol Williams,22,Female,Flu,27371.92,2024-07-13,2024-07-19,Improved,Aetna
+3138,Jack Smith,63,Female,Asthma,26934.22,2024-09-24,2024-10-01,Ongoing Treatment,Aetna
+3139,Bob Smith,19,Other,Hypertension,,2024-09-04,2024-09-14,Stable,None
+3140,David Smith,74,Female,Hypertension,8220.18,2024-04-26,2024-05-05,Improved,UnitedHealth
+3141,Alice Martinez,67,Female,Hypertension,18207.19,2024-01-19,2024-01-31,Stable,Medicare
+3142,Jack Jones,39,Male,Diabetes,,2024-06-21,2024-06-26,Improved,Medicare
+3143,Eve Brown,,Male,Asthma,,2024-04-28,2024-05-02,Recovered,Aetna
+3144,David Smith,60,Other,Hypertension,11363.60,2024-09-22,2024-10-06,Recovered,Cigna
+3145,Iris Miller,32,Male,Hypertension,3955.53,2024-12-29,2025-01-01,Recovered,Medicare
+3146,Frank Smith,84,Other,Allergies,19987.29,2024-04-19,2024-04-22,Improved,Medicare
+3147,Eve Williams,56,Male,COVID-19,27051.87,2024-02-04,2024-02-09,Recovered,Cigna
+3148,Grace Rodriguez,30,Other,Asthma,41512.68,2024-04-24,2024-05-08,Improved,UnitedHealth
+3149,Frank Williams,36,Male,Heart Disease,31143.56,2024-02-13,2024-02-20,Improved,Blue Cross
+3150,Jack Brown,55,Female,Hypertension,13142.48,2024-01-12,2024-01-16,Recovered,None
+3150,Jack Brown,55,Female,Hypertension,13142.48,2024-01-12,2024-01-16,Recovered,None
+3151,Carol Brown,37,Female,Hypertension,44286.53,2024-08-24,2024-08-28,Improved,Blue Cross
+3152,Grace Rodriguez,21,Male,Allergies,50234.66,2024-08-15,2024-08-27,Recovered,Blue Cross
+3153,Henry Jones,46,Male,Flu,32708.07,2024-04-12,2024-04-22,Improved,Medicare
+3154,Bob Brown,63,Female,Heart Disease,23552.55,2024-05-13,2024-05-23,Improved,Cigna
+3155,Carol Garcia,25,Female,COVID-19,45293.28,2024-04-24,2024-05-07,Stable,Aetna
+3156,Frank Martinez,,Other,Migraine,2620.60,2024-08-09,2024-08-10,Ongoing Treatment,None
+3157,Alice Johnson,59,Male,Flu,8670.12,2024-05-05,2024-05-08,Recovered,None
+3158,Jack Davis,40,Female,Heart Disease,1875.40,2024-09-02,2024-09-07,Recovered,Medicare
+3159,Bob Martinez,77,Other,Heart Disease,1470.68,2024-12-08,2024-12-15,Ongoing Treatment,Cigna
+3160,Alice Miller,80,Female,Diabetes,22402.15,2024-06-25,2024-07-01,Ongoing Treatment,Aetna
+3161,David Smith,38,Male,Allergies,14114.53,2024-09-17,2024-09-22,Stable,None
+3162,Henry Garcia,83,Male,Asthma,15843.25,2024-02-13,2024-02-19,Improved,None
+3163,David Miller,,Female,Flu,14604.94,2024-11-20,2024-12-04,Ongoing Treatment,None
+3164,Alice Miller,58,Other,Flu,45309.48,2024-05-28,2024-06-02,Improved,Cigna
+3165,Iris Jones,29,Male,Diabetes,40563.73,2024-08-04,2024-08-18,Recovered,UnitedHealth
+3166,Frank Williams,86,Other,COVID-19,23834.33,2024-12-29,2025-01-09,Stable,UnitedHealth
+3167,Carol Martinez,50,Female,Diabetes,34207.04,2024-03-16,2024-03-23,Stable,Blue Cross
+3168,Frank Smith,50,Other,Migraine,14395.97,2024-05-18,2024-06-01,Recovered,UnitedHealth
+3169,Grace Martinez,20,Female,Asthma,49976.03,2024-09-09,2024-09-14,Recovered,Cigna
+3170,David Smith,27,Female,Arthritis,32424.46,2024-02-08,2024-02-20,Recovered,Medicare
+3171,Grace Williams,24,Other,COVID-19,6305.37,2024-01-21,2024-01-24,Ongoing Treatment,Cigna
+3172,Frank Miller,36,Other,Flu,29409.47,2024-04-03,2024-04-16,Stable,Aetna
+3173,Bob Rodriguez,62,Male,Migraine,,2024-05-07,2024-05-15,Stable,Aetna
+3174,Iris Smith,20,Other,Asthma,4185.93,2024-04-13,2024-04-14,Stable,UnitedHealth
+3175,Frank Smith,85,Other,Hypertension,30042.60,2024-02-23,2024-02-26,Ongoing Treatment,UnitedHealth
+3176,Carol Johnson,78,Male,Hypertension,34629.61,2024-01-04,2024-01-15,Ongoing Treatment,Blue Cross
+3177,Bob Williams,82,Other,Hypertension,36411.19,2024-09-20,2024-09-21,Improved,Cigna
+3178,Jack Brown,43,Female,Allergies,,2024-09-07,2024-09-17,Ongoing Treatment,UnitedHealth
+3179,Eve Martinez,44,Female,Asthma,19812.00,2024-07-02,2024-07-12,Recovered,None
+3180,Eve Brown,70,Other,Heart Disease,15894.19,2024-02-17,2024-03-02,Stable,UnitedHealth
+3181,Eve Johnson,,Other,Heart Disease,49901.56,2024-04-14,2024-04-25,Ongoing Treatment,UnitedHealth
+3182,Grace Williams,39,Male,Heart Disease,22234.67,2024-08-30,2024-09-12,Ongoing Treatment,Blue Cross
+3183,Jack Rodriguez,46,Male,Heart Disease,27108.70,2024-10-21,2024-10-31,Ongoing Treatment,UnitedHealth
+3184,Bob Johnson,31,Female,Diabetes,31185.16,2024-12-25,2025-01-03,Ongoing Treatment,Medicare
+3185,Henry Davis,51,Female,Hypertension,34699.84,2024-06-17,2024-06-21,Recovered,Medicare
+3186,Alice Garcia,,Male,Allergies,12515.08,2024-10-22,2024-10-30,Ongoing Treatment,UnitedHealth
+3187,Frank Rodriguez,62,Male,Arthritis,,2024-12-04,2024-12-05,Improved,Medicare
+3188,Alice Smith,78,Male,Allergies,,2024-03-06,2024-03-08,Stable,Blue Cross
+3189,Carol Garcia,30,Female,Heart Disease,,2024-12-14,2024-12-22,Stable,Aetna
+3190,Frank Jones,22,Other,Migraine,40929.98,2024-11-01,2024-11-05,Recovered,UnitedHealth
+3191,Iris Miller,33,Other,Hypertension,1077.83,2024-06-11,2024-06-15,Ongoing Treatment,Blue Cross
+3192,Eve Jones,44,Other,Diabetes,2762.50,2024-03-23,2024-03-30,Recovered,Medicare
+3193,Eve Miller,72,Male,Migraine,7816.79,2024-06-22,2024-07-05,Improved,None
+3194,David Davis,38,Male,Allergies,14952.03,2024-12-06,2024-12-09,Stable,UnitedHealth
+3195,Frank Rodriguez,58,Other,Arthritis,31568.11,2024-12-16,2024-12-29,Stable,Cigna
+3196,Grace Jones,19,Male,Migraine,4249.17,2024-06-12,2024-06-16,Improved,Blue Cross
+3197,Eve Miller,66,Male,Migraine,3739.48,2024-04-27,2024-05-10,Ongoing Treatment,None
+3198,Eve Brown,77,Other,Asthma,9532.88,2024-05-12,2024-05-14,Recovered,UnitedHealth
+3199,Grace Smith,46,Female,Hypertension,12803.97,2024-09-23,2024-09-30,Ongoing Treatment,None
+3200,Iris Brown,24,Female,Heart Disease,18674.81,2024-09-01,2024-09-15,Stable,Cigna
+3200,Iris Brown,24,Female,Heart Disease,18674.81,2024-09-01,2024-09-15,Stable,Cigna
+3201,Frank Brown,37,Male,Heart Disease,13176.39,2024-07-21,2024-08-03,Improved,Aetna
+3202,Frank Williams,49,Female,Pneumonia,24795.33,2024-01-14,2024-01-21,Recovered,Cigna
+3203,Frank Martinez,84,Female,Migraine,5867.76,2024-09-21,2024-10-02,Recovered,Aetna
+3204,Frank Garcia,81,Female,Hypertension,16794.27,2024-07-10,2024-07-20,Stable,Cigna
+3205,Grace Johnson,47,Male,Allergies,,2024-07-09,2024-07-11,Ongoing Treatment,None
+3206,Alice Davis,31,Female,Hypertension,15786.59,2024-04-10,2024-04-13,Stable,Blue Cross
+3207,Henry Rodriguez,73,Female,Migraine,11225.52,2024-06-06,2024-06-20,Improved,UnitedHealth
+3208,Henry Brown,75,Male,Pneumonia,2339.57,2024-12-09,2024-12-11,Stable,None
+3209,Iris Martinez,71,Female,Arthritis,20191.82,2024-09-02,2024-09-07,Recovered,Aetna
+3210,Bob Johnson,19,Other,Flu,39845.91,2024-12-01,2024-12-08,Improved,Aetna
+3211,Frank Davis,65,Female,Hypertension,45145.81,2024-11-12,2024-11-26,Recovered,UnitedHealth
+3212,Grace Jones,56,Other,Arthritis,33079.19,2024-08-20,2024-08-29,Improved,None
+3213,Frank Garcia,50,Male,Heart Disease,31550.43,2024-11-13,2024-11-16,Improved,Cigna
+3214,David Brown,60,Female,Diabetes,42763.30,2024-08-23,2024-08-28,Improved,UnitedHealth
+3215,Jack Johnson,20,Female,Allergies,9013.38,2024-11-13,2024-11-18,Ongoing Treatment,UnitedHealth
+3216,Eve Smith,47,Male,COVID-19,15951.48,2024-01-02,2024-01-06,Improved,Blue Cross
+3217,Iris Garcia,36,Female,Heart Disease,25123.37,2024-10-12,2024-10-13,Stable,None
+3218,Iris Jones,84,Female,COVID-19,12772.04,2024-01-27,2024-02-04,Ongoing Treatment,Blue Cross
+3219,Grace Davis,56,Male,Heart Disease,38148.45,2024-06-07,2024-06-08,Improved,Blue Cross
+3220,Alice Garcia,27,Female,Migraine,24588.81,2024-01-26,2024-01-29,Ongoing Treatment,UnitedHealth
+3221,Iris Jones,,Female,Arthritis,30722.65,2024-07-25,2024-08-07,Improved,UnitedHealth
+3222,Frank Davis,,Other,Hypertension,25018.76,2024-08-22,2024-09-03,Recovered,Aetna
+3223,Carol Smith,75,Female,Arthritis,8005.46,2024-10-18,2024-10-26,Recovered,UnitedHealth
+3224,Alice Williams,24,Female,COVID-19,34974.06,2024-07-08,2024-07-18,Improved,Blue Cross
+3225,Bob Jones,75,Female,Migraine,47060.54,2024-03-07,2024-03-11,Stable,Blue Cross
+3226,Alice Rodriguez,47,Other,Migraine,41552.06,2024-09-22,2024-09-30,Stable,Aetna
+3227,Grace Smith,44,Other,Asthma,38613.26,2024-06-25,2024-06-30,Stable,Aetna
+3228,Henry Miller,18,Male,COVID-19,,2024-01-24,2024-02-07,Improved,None
+3229,Eve Smith,87,Other,Flu,2533.47,2024-07-16,2024-07-22,Recovered,Medicare
+3230,Henry Davis,54,Female,Migraine,20661.33,2024-11-13,2024-11-23,Improved,Aetna
+3231,Eve Miller,59,Male,Hypertension,35233.70,2024-11-21,2024-11-23,Ongoing Treatment,Blue Cross
+3232,Henry Smith,41,Male,Pneumonia,50914.39,2024-10-31,2024-11-03,Recovered,Cigna
+3233,Grace Davis,53,Female,Diabetes,,2024-09-03,2024-09-04,Improved,Medicare
+3234,Eve Rodriguez,29,Other,COVID-19,16344.61,2024-06-23,2024-07-05,Recovered,UnitedHealth
+3235,David Garcia,41,Male,COVID-19,28223.43,2024-04-17,2024-04-24,Stable,Aetna
+3236,Carol Martinez,84,Other,Heart Disease,26393.77,2024-04-25,2024-04-28,Stable,Blue Cross
+3237,Eve Martinez,53,Female,Flu,49007.21,2024-05-01,2024-05-06,Recovered,Blue Cross
+3238,Jack Brown,49,Male,Diabetes,7783.65,2024-01-17,2024-01-20,Improved,Blue Cross
+3239,Henry Martinez,56,Male,Pneumonia,,2024-07-07,2024-07-18,Stable,Cigna
+3240,Jack Johnson,33,Female,COVID-19,45344.30,2024-12-21,2024-12-30,Improved,Aetna
+3241,Iris Jones,52,Female,Flu,5787.69,2024-02-19,2024-02-26,Improved,Medicare
+3242,Jack Smith,69,Male,Migraine,34979.28,2024-09-06,2024-09-10,Improved,Medicare
+3243,Grace Johnson,45,Other,Hypertension,45903.51,2024-11-07,2024-11-12,Improved,Aetna
+3244,David Martinez,29,Other,COVID-19,15290.07,2024-01-29,2024-02-02,Stable,None
+3245,Alice Brown,48,Female,Flu,45084.21,2024-11-23,2024-12-05,Ongoing Treatment,Aetna
+3246,Frank Smith,49,Female,Migraine,35694.93,2024-05-30,2024-06-11,Recovered,None
+3247,Alice Davis,70,Male,Diabetes,1571.54,2024-09-01,2024-09-08,Ongoing Treatment,Aetna
+3248,Bob Johnson,29,Male,Heart Disease,5606.19,2024-11-23,2024-12-06,Stable,None
+3249,Alice Rodriguez,37,Male,COVID-19,32370.53,2024-04-18,2024-04-27,Recovered,UnitedHealth
+3250,Alice Brown,,Female,Heart Disease,29765.53,2024-08-04,2024-08-11,Stable,None
+3250,Alice Brown,,Female,Heart Disease,29765.53,2024-08-04,2024-08-11,Stable,None
+3251,Henry Smith,45,Male,Hypertension,35706.91,2024-01-22,2024-02-01,Ongoing Treatment,Aetna
+3252,Carol Jones,76,Male,Asthma,14478.19,2024-10-21,2024-11-01,Ongoing Treatment,None
+3253,Carol Smith,78,Male,Asthma,37025.89,2024-10-13,2024-10-23,Stable,Blue Cross
+3254,Carol Jones,30,Female,Flu,21167.32,2024-02-29,2024-03-02,Ongoing Treatment,Cigna
+3255,Eve Davis,76,Other,Flu,38629.47,2024-07-21,2024-07-29,Ongoing Treatment,UnitedHealth
+3256,Carol Miller,18,Female,Diabetes,28924.54,2024-01-19,2024-01-30,Stable,None
+3257,Jack Williams,60,Male,Arthritis,47225.14,2024-10-22,2024-10-30,Improved,Aetna
+3258,David Davis,51,Male,COVID-19,12338.09,2024-03-15,2024-03-18,Stable,Cigna
+3259,Henry Davis,29,Other,Allergies,,2024-11-10,2024-11-20,Stable,Aetna
+3260,Carol Williams,73,Male,COVID-19,44687.74,2024-03-26,2024-03-30,Recovered,Aetna
+3261,Iris Williams,50,Male,Allergies,50448.01,2024-12-16,2024-12-26,Ongoing Treatment,UnitedHealth
+3262,Grace Garcia,71,Other,Diabetes,40321.87,2024-11-12,2024-11-16,Improved,Aetna
+3263,Alice Brown,42,Other,Flu,,2024-01-24,2024-01-26,Ongoing Treatment,Blue Cross
+3264,Iris Jones,66,Male,Migraine,38387.34,2024-09-16,2024-09-27,Improved,Medicare
+3265,Carol Brown,76,Other,Heart Disease,21956.10,2024-06-08,2024-06-17,Stable,Aetna
+3266,Iris Jones,21,Other,Arthritis,25154.27,2024-08-01,2024-08-10,Ongoing Treatment,Aetna
+3267,Frank Smith,56,Female,Diabetes,4038.46,2024-05-26,2024-06-07,Ongoing Treatment,Aetna
+3268,David Williams,,Other,Heart Disease,13871.07,2024-10-08,2024-10-21,Ongoing Treatment,Blue Cross
+3269,Henry Martinez,85,Other,Migraine,49105.04,2024-07-18,2024-07-27,Improved,Medicare
+3270,Grace Davis,41,Female,Allergies,38398.58,2024-06-01,2024-06-12,Ongoing Treatment,None
+3271,David Davis,51,Male,Allergies,16031.32,2024-10-15,2024-10-28,Ongoing Treatment,Blue Cross
+3272,Carol Williams,47,Male,Migraine,19219.19,2024-05-05,2024-05-11,Improved,Medicare
+3273,Alice Rodriguez,60,Male,Flu,44187.33,2024-10-11,2024-10-24,Improved,Cigna
+3274,David Johnson,43,Male,Hypertension,8679.12,2024-06-21,2024-06-23,Stable,Aetna
+3275,Jack Garcia,27,Male,COVID-19,20911.79,2024-11-26,2024-12-09,Ongoing Treatment,UnitedHealth
+3276,Grace Williams,24,Female,Asthma,46337.67,2024-12-29,2025-01-09,Improved,UnitedHealth
+3277,Iris Martinez,19,Male,Migraine,17592.35,2024-03-14,2024-03-23,Stable,UnitedHealth
+3278,Henry Jones,74,Female,Hypertension,,2024-07-29,2024-08-03,Improved,Cigna
+3279,Alice Johnson,30,Other,Diabetes,50507.02,2024-03-27,2024-04-06,Recovered,UnitedHealth
+3280,Jack Johnson,73,Other,Diabetes,27844.83,2024-06-29,2024-07-12,Improved,UnitedHealth
+3281,Bob Davis,84,Male,Flu,30552.07,2024-04-29,2024-05-07,Stable,Medicare
+3282,Bob Garcia,85,Male,Diabetes,27980.68,2024-12-24,2025-01-01,Recovered,Aetna
+3283,Eve Williams,47,Male,COVID-19,44167.47,2024-04-09,2024-04-10,Ongoing Treatment,Medicare
+3284,Carol Williams,51,Male,Migraine,9251.02,2024-02-02,2024-02-03,Recovered,Medicare
+3285,Grace Rodriguez,60,Female,Asthma,39308.89,2024-09-17,2024-09-21,Recovered,None
+3286,Frank Rodriguez,31,Other,Heart Disease,28536.14,2024-06-18,2024-06-30,Recovered,Medicare
+3287,Iris Martinez,47,Female,Arthritis,44002.88,2024-10-09,2024-10-19,Ongoing Treatment,Aetna
+3288,Alice Brown,84,Other,Pneumonia,31446.77,2024-10-27,2024-11-10,Stable,Aetna
+3289,Alice Smith,59,Other,Asthma,,2024-10-21,2024-10-31,Stable,None
+3290,Alice Jones,62,Female,Diabetes,,2024-10-05,2024-10-17,Recovered,Aetna
+3291,Carol Garcia,41,Male,Arthritis,11179.91,2024-11-04,2024-11-18,Improved,Medicare
+3292,David Davis,40,Female,Heart Disease,6060.89,2024-07-05,2024-07-13,Ongoing Treatment,Blue Cross
+3293,Carol Jones,25,Female,Heart Disease,,2024-03-12,2024-03-15,Recovered,Blue Cross
+3294,Bob Davis,39,Other,Flu,23144.32,2024-06-23,2024-07-02,Stable,Medicare
+3295,David Miller,74,Male,Migraine,42441.23,2024-06-29,2024-06-30,Recovered,UnitedHealth
+3296,Iris Davis,62,Male,Diabetes,13955.77,2024-04-24,2024-04-30,Stable,Blue Cross
+3297,Eve Davis,49,Other,Heart Disease,47578.33,2024-01-08,2024-01-17,Improved,UnitedHealth
+3298,Frank Jones,78,Female,COVID-19,44778.26,2024-01-03,2024-01-06,Ongoing Treatment,None
+3299,Henry Garcia,64,Male,Flu,27258.95,2024-02-01,2024-02-14,Stable,Aetna
+3300,Henry Miller,71,Female,Pneumonia,13970.27,2024-05-08,2024-05-21,Recovered,None
+3300,Henry Miller,71,Female,Pneumonia,13970.27,2024-05-08,2024-05-21,Recovered,None
+3301,Iris Williams,,Other,Flu,20686.17,2024-09-03,2024-09-11,Recovered,None
+3302,Frank Miller,74,Male,Diabetes,,2024-10-28,2024-11-02,Stable,Cigna
+3303,Henry Martinez,74,Female,Pneumonia,24255.42,2024-10-17,2024-10-31,Stable,Blue Cross
+3304,Alice Garcia,80,Female,Hypertension,29016.75,2024-05-23,2024-05-24,Recovered,UnitedHealth
+3305,Alice Brown,48,Other,Heart Disease,17603.46,2024-05-22,2024-06-05,Ongoing Treatment,Aetna
+3306,Iris Williams,82,Other,Hypertension,24376.68,2024-06-08,2024-06-13,Stable,Blue Cross
+3307,Carol Williams,55,Female,Asthma,23477.76,2024-09-06,2024-09-14,Improved,None
+3308,Henry Brown,43,Female,Allergies,12467.48,2024-11-08,2024-11-22,Stable,Medicare
+3309,Eve Jones,57,Other,COVID-19,1601.81,2024-12-28,2025-01-09,Recovered,Blue Cross
+3310,Jack Davis,62,Other,Pneumonia,3104.86,2024-09-22,2024-09-25,Improved,Blue Cross
+3311,Carol Williams,,Other,Migraine,17631.03,2024-07-30,2024-08-05,Recovered,Medicare
+3312,Jack Martinez,57,Female,Pneumonia,5768.99,2024-04-15,2024-04-21,Stable,Cigna
+3313,Jack Brown,27,Female,Allergies,,2024-07-08,2024-07-18,Improved,None
+3314,Alice Brown,60,Other,Asthma,1629.75,2024-08-03,2024-08-17,Recovered,Blue Cross
+3315,Eve Martinez,46,Other,Heart Disease,13758.29,2024-06-20,2024-07-04,Recovered,Blue Cross
+3316,Frank Williams,86,Female,Pneumonia,20321.29,2024-10-15,2024-10-28,Recovered,Aetna
+3317,Henry Johnson,21,Female,Arthritis,7953.83,2024-04-14,2024-04-28,Improved,UnitedHealth
+3318,Carol Jones,71,Female,Allergies,24021.13,2024-11-30,2024-12-08,Ongoing Treatment,Cigna
+3319,Carol Jones,39,Male,Arthritis,14721.16,2024-05-25,2024-05-26,Improved,UnitedHealth
+3320,Jack Williams,57,Other,COVID-19,47782.74,2024-02-16,2024-02-27,Stable,Aetna
+3321,Grace Miller,80,Female,Arthritis,,2024-03-10,2024-03-17,Improved,Medicare
+3322,Carol Williams,65,Male,Hypertension,49337.73,2024-08-18,2024-08-24,Stable,None
+3323,Iris Johnson,64,Female,Heart Disease,22036.79,2024-09-04,2024-09-12,Stable,Blue Cross
+3324,David Davis,34,Male,Arthritis,12837.70,2024-05-29,2024-06-08,Ongoing Treatment,None
+3325,Grace Martinez,83,Female,Heart Disease,49601.31,2024-08-08,2024-08-16,Ongoing Treatment,Cigna
+3326,Frank Jones,46,Female,Flu,41664.89,2024-01-14,2024-01-23,Improved,Cigna
+3327,Henry Smith,28,Female,Pneumonia,40496.13,2024-07-12,2024-07-23,Stable,Aetna
+3328,Frank Smith,37,Other,Migraine,33419.66,2024-10-28,2024-11-05,Stable,Aetna
+3329,Frank Johnson,32,Other,Diabetes,19765.20,2024-01-09,2024-01-14,Improved,None
+3330,Alice Garcia,80,Male,Diabetes,23260.79,2024-09-23,2024-10-01,Stable,UnitedHealth
+3331,Henry Davis,32,Other,Hypertension,26862.51,2024-02-06,2024-02-13,Stable,Blue Cross
+3332,Grace Williams,60,Female,Allergies,49074.46,2024-11-12,2024-11-17,Stable,None
+3333,Frank Rodriguez,30,Male,Migraine,12863.67,2024-12-03,2024-12-17,Recovered,None
+3334,Iris Davis,53,Other,Arthritis,4074.97,2024-01-23,2024-01-25,Recovered,Blue Cross
+3335,Jack Brown,45,Male,Asthma,5455.82,2024-11-19,2024-11-29,Improved,UnitedHealth
+3336,Frank Davis,61,Male,Pneumonia,18824.40,2024-04-16,2024-04-22,Ongoing Treatment,Aetna
+3337,Jack Williams,85,Other,Asthma,18763.83,2024-09-22,2024-10-02,Stable,None
+3338,Frank Martinez,40,Female,Heart Disease,34395.80,2024-02-15,2024-02-24,Stable,Medicare
+3339,Alice Smith,62,Female,Allergies,13929.23,2024-12-21,2024-12-25,Improved,None
+3340,Frank Davis,49,Male,Heart Disease,37722.67,2024-06-10,2024-06-16,Improved,Aetna
+3341,Alice Davis,47,Female,Diabetes,21599.26,2024-01-22,2024-01-29,Ongoing Treatment,Blue Cross
+3342,Carol Garcia,,Female,Diabetes,20374.26,2024-01-15,2024-01-17,Improved,None
+3343,Jack Johnson,21,Male,COVID-19,29272.00,2024-05-07,2024-05-14,Recovered,UnitedHealth
+3344,Carol Brown,49,Other,Migraine,,2024-02-05,2024-02-07,Improved,Aetna
+3345,David Miller,52,Male,Pneumonia,45127.11,2024-04-17,2024-04-21,Recovered,UnitedHealth
+3346,Alice Smith,45,Male,Migraine,7410.62,2024-06-01,2024-06-02,Ongoing Treatment,Aetna
+3347,Jack Jones,,Male,COVID-19,40083.94,2024-06-04,2024-06-10,Improved,Blue Cross
+3348,Frank Smith,50,Female,Hypertension,,2024-05-14,2024-05-15,Stable,Aetna
+3349,Iris Williams,77,Female,Flu,33315.97,2024-06-23,2024-07-06,Recovered,UnitedHealth
+3350,Bob Garcia,61,Female,Pneumonia,44421.65,2024-11-12,2024-11-17,Recovered,UnitedHealth
+3350,Bob Garcia,61,Female,Pneumonia,44421.65,2024-11-12,2024-11-17,Recovered,UnitedHealth
+3351,Iris Davis,78,Male,Flu,8526.99,2024-05-14,2024-05-28,Stable,Medicare
+3352,Grace Jones,33,Female,Hypertension,25726.40,2024-07-28,2024-08-09,Improved,Aetna
+3353,Carol Williams,55,Male,COVID-19,32696.46,2024-01-10,2024-01-17,Stable,Aetna
+3354,Henry Martinez,26,Female,Pneumonia,,2024-03-19,2024-03-26,Recovered,None
+3355,Carol Rodriguez,60,Male,Pneumonia,,2024-12-05,2024-12-17,Ongoing Treatment,Aetna
+3356,Eve Smith,51,Female,Pneumonia,17000.28,2024-07-29,2024-08-02,Ongoing Treatment,None
+3357,Henry Martinez,54,Male,COVID-19,22829.70,2023-12-31,2024-01-04,Improved,Medicare
+3358,Eve Johnson,76,Other,Diabetes,32921.55,2024-09-05,2024-09-09,Stable,Cigna
+3359,Iris Martinez,73,Female,Heart Disease,25522.13,2024-04-26,2024-05-10,Ongoing Treatment,Aetna
+3360,Alice Smith,27,Other,Allergies,,2024-10-29,2024-11-08,Improved,Cigna
+3361,David Garcia,54,Other,Pneumonia,50388.87,2024-02-12,2024-02-24,Stable,None
+3362,Henry Smith,43,Male,Hypertension,,2024-01-02,2024-01-14,Stable,Blue Cross
+3363,David Brown,74,Male,COVID-19,,2024-03-24,2024-04-03,Ongoing Treatment,UnitedHealth
+3364,Grace Smith,23,Female,Pneumonia,48477.59,2024-08-14,2024-08-19,Recovered,Blue Cross
+3365,Bob Smith,71,Female,Migraine,25231.78,2024-07-03,2024-07-17,Ongoing Treatment,Blue Cross
+3366,Bob Martinez,85,Female,Asthma,8134.61,2024-09-27,2024-10-05,Recovered,Blue Cross
+3367,Eve Davis,30,Male,Pneumonia,22096.04,2024-08-11,2024-08-19,Recovered,Blue Cross
+3368,Bob Johnson,,Other,Flu,41440.05,2024-04-09,2024-04-22,Ongoing Treatment,Blue Cross
+3369,Eve Davis,87,Male,Heart Disease,14764.38,2024-07-25,2024-07-30,Ongoing Treatment,None
+3370,Bob Williams,36,Male,Asthma,9064.33,2024-06-06,2024-06-11,Improved,None
+3371,Grace Miller,84,Other,Diabetes,43385.88,2024-05-26,2024-06-02,Ongoing Treatment,None
+3372,Iris Jones,65,Male,Flu,1602.24,2024-01-31,2024-02-10,Recovered,Cigna
+3373,Jack Garcia,54,Other,Pneumonia,32061.89,2024-01-13,2024-01-16,Improved,Aetna
+3374,Grace Smith,76,Other,Flu,,2024-10-05,2024-10-15,Stable,UnitedHealth
+3375,Grace Williams,86,Female,Diabetes,35376.32,2024-04-22,2024-05-02,Stable,UnitedHealth
+3376,Iris Davis,87,Other,Migraine,,2024-09-16,2024-09-25,Recovered,Blue Cross
+3377,Iris Davis,49,Female,Asthma,15659.36,2024-06-13,2024-06-20,Ongoing Treatment,UnitedHealth
+3378,David Williams,82,Female,Flu,16679.96,2024-06-08,2024-06-19,Stable,Blue Cross
+3379,Grace Brown,48,Other,Migraine,45029.64,2024-11-25,2024-12-05,Ongoing Treatment,Aetna
+3380,Iris Brown,57,Female,Allergies,,2024-08-12,2024-08-18,Improved,Cigna
+3381,David Johnson,22,Other,Flu,26725.38,2024-04-28,2024-05-10,Ongoing Treatment,Medicare
+3382,David Davis,87,Female,COVID-19,4849.91,2024-10-27,2024-11-04,Recovered,None
+3383,Frank Davis,68,Female,Arthritis,14387.24,2024-06-09,2024-06-12,Recovered,Medicare
+3384,Grace Jones,66,Male,Asthma,16764.51,2024-11-15,2024-11-27,Ongoing Treatment,Cigna
+3385,David Martinez,55,Other,Allergies,14688.85,2024-04-20,2024-04-28,Stable,Medicare
+3386,Bob Miller,19,Male,Pneumonia,,2024-04-13,2024-04-23,Recovered,None
+3387,Grace Martinez,26,Male,Hypertension,49116.58,2024-08-27,2024-09-05,Ongoing Treatment,Blue Cross
+3388,Frank Jones,23,Female,Flu,34057.72,2024-02-26,2024-03-02,Improved,Medicare
+3389,Iris Davis,34,Other,Heart Disease,23751.54,2024-07-30,2024-08-11,Ongoing Treatment,Aetna
+3390,Bob Jones,43,Female,Allergies,12440.61,2024-06-25,2024-07-02,Improved,None
+3391,Alice Davis,59,Male,Hypertension,38970.40,2024-12-01,2024-12-05,Recovered,Medicare
+3392,Eve Garcia,57,Female,Asthma,6193.26,2024-07-31,2024-08-04,Ongoing Treatment,Cigna
+3393,David Williams,,Male,Arthritis,10288.81,2024-01-23,2024-02-01,Ongoing Treatment,None
+3394,Bob Garcia,82,Male,Flu,31549.14,2024-09-03,2024-09-11,Recovered,Aetna
+3395,Carol Johnson,60,Male,Allergies,20151.03,2024-01-05,2024-01-15,Improved,Cigna
+3396,Carol Garcia,40,Female,Pneumonia,14790.71,2024-12-17,2024-12-21,Stable,Cigna
+3397,David Miller,55,Female,COVID-19,43912.05,2024-04-07,2024-04-14,Stable,Aetna
+3398,David Jones,32,Female,Arthritis,7436.19,2024-07-28,2024-08-05,Recovered,UnitedHealth
+3399,Eve Williams,,Female,Allergies,46873.14,2024-04-24,2024-04-29,Stable,Medicare
+3400,Jack Williams,48,Female,Pneumonia,26811.87,2024-03-05,2024-03-07,Improved,Aetna
+3400,Jack Williams,48,Female,Pneumonia,26811.87,2024-03-05,2024-03-07,Improved,Aetna

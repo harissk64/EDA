@@ -1,0 +1,301 @@
+EmployeeID,Name,Age,Gender,Department,Position,Salary,YearsAtCompany,PerformanceRating,EducationLevel
+2001,Sam Williams 1,57,Male,Finance,Senior,131192,9,4.4,High School
+2002,Avery Rodriguez 2,37,Non-Binary,Finance,Manager,129140,10,3.8,High School
+2003,Riley Anderson 3,53,Male,Finance,Manager,78072,20,3.8,PhD
+2004,Jordan Brown 4,61,Female,Operations,Associate,84059,14,,Master
+2005,Jordan Brown 5,24,Male,HR,Lead,76564,8,3.6,High School
+2006,Riley Anderson 6,29,Female,Marketing,Senior,132854,6,3.5,Master
+2007,Alex Johnson 7,55,Male,IT,Junior,77485,3,4.0,PhD
+2008,Drew Garcia 8,53,Non-Binary,HR,Director,97015,7,4.7,Bachelor
+2009,Casey Martinez 9,36,Male,Sales,Director,73453,9,3.5,PhD
+2010,Taylor Davis 10,37,Male,Marketing,Senior,79066,7,3.6,High School
+2011,Morgan Wilson 11,31,Non-Binary,HR,Director,97963,15,3.8,High School
+2012,Taylor Davis 12,26,Non-Binary,Sales,Manager,53037,13,3.2,High School
+2013,Taylor Davis 13,25,Male,Sales,Junior,115266,10,3.6,High School
+2014,Sam Williams 14,24,Female,Marketing,Junior,,13,3.8,PhD
+2015,Drew Garcia 15,40,Non-Binary,HR,Director,134411,20,,PhD
+2016,Casey Martinez 16,29,Female,Marketing,Senior,42749,9,4.3,High School
+2017,Quinn Thomas 17,31,Non-Binary,Sales,Director,113796,17,,Bachelor
+2018,Quinn Thomas 18,52,Female,Marketing,Lead,43824,8,3.3,Bachelor
+2019,Morgan Wilson 19,44,Female,HR,Junior,54515,9,,Master
+2020,Jordan Brown 20,27,Male,HR,Lead,70984,6,4.4,PhD
+2021,Alex Johnson 21,34,Non-Binary,HR,Director,83487,17,3.5,Bachelor
+2022,Riley Anderson 22,33,Non-Binary,HR,Director,98284,15,,High School
+2023,Alex Johnson 23,40,Male,Sales,Manager,109827,6,,Bachelor
+2024,Casey Martinez 24,28,Female,Finance,Director,130417,9,4.0,Master
+2025,Morgan Wilson 25,49,Male,IT,Junior,87512,2,4.0,Master
+2026,Sam Williams 26,50,Non-Binary,IT,Director,128510,16,4.8,High School
+2027,Avery Rodriguez 27,55,Female,HR,Senior,38360,8,3.6,PhD
+2028,Jordan Brown 28,46,Male,Marketing,Associate,,19,4.4,High School
+2029,Taylor Davis 29,27,Male,Operations,Lead,87629,1,4.1,Bachelor
+2030,Riley Anderson 30,56,Female,Sales,Senior,109919,4,3.2,PhD
+2031,Morgan Wilson 31,50,Female,Marketing,Director,69453,15,3.5,Bachelor
+2032,Riley Anderson 32,47,Non-Binary,HR,Director,130769,2,3.4,PhD
+2033,Quinn Thomas 33,31,Male,HR,Associate,121285,9,3.4,High School
+2034,Sam Williams 34,35,Female,Marketing,Lead,76208,3,3.9,Bachelor
+2035,Alex Johnson 35,35,Non-Binary,Finance,Director,113047,20,4.9,PhD
+2036,Sam Williams 36,46,Female,Marketing,Director,71439,18,4.4,Master
+2037,Jordan Brown 37,32,Non-Binary,Marketing,Manager,105725,15,3.0,Bachelor
+2038,Casey Martinez 38,24,Female,Sales,Manager,65444,2,3.7,PhD
+2039,Morgan Wilson 39,35,Male,Operations,Lead,50331,3,,High School
+2040,Quinn Thomas 40,28,Male,IT,Lead,40677,5,3.7,Bachelor
+2041,Riley Anderson 41,38,Male,Sales,Junior,99375,2,4.0,High School
+2042,Casey Martinez 42,29,Female,Operations,Director,67305,11,4.9,Master
+2043,Jordan Brown 43,42,Non-Binary,Operations,Manager,66913,9,4.1,PhD
+2044,Quinn Thomas 44,51,Male,Marketing,Lead,84794,13,4.9,High School
+2045,Morgan Wilson 45,24,Male,Operations,Junior,124279,1,4.4,High School
+2046,Avery Rodriguez 46,55,Non-Binary,IT,Manager,,11,4.5,PhD
+2047,Alex Johnson 47,61,Female,Finance,Director,,8,,Master
+2048,Riley Anderson 48,32,Male,Operations,Junior,120702,1,3.6,PhD
+2049,Jordan Brown 49,44,Female,Finance,Senior,105231,3,4.6,High School
+2050,Morgan Wilson 50,45,Male,Sales,Lead,,6,4.8,Master
+2051,Alex Johnson 51,52,Female,IT,Manager,113962,14,3.5,Master
+2052,Taylor Davis 52,32,Male,Sales,Senior,129203,7,3.6,Master
+2053,Casey Martinez 53,58,Non-Binary,HR,Senior,35833,7,3.8,PhD
+2054,Alex Johnson 54,28,Male,Marketing,Director,80136,14,3.8,High School
+2055,Drew Garcia 55,24,Female,Sales,Senior,74433,9,4.7,Master
+2056,Taylor Davis 56,32,Non-Binary,IT,Senior,121996,10,3.8,High School
+2057,Riley Anderson 57,46,Female,Finance,Manager,119945,18,3.3,PhD
+2058,Drew Garcia 58,55,Non-Binary,Sales,Manager,60450,7,4.6,PhD
+2059,Casey Martinez 59,44,Female,Sales,Manager,57506,19,,PhD
+2060,Casey Martinez 60,56,Male,HR,Junior,67247,16,3.5,Bachelor
+2061,Morgan Wilson 61,45,Male,Finance,Senior,61622,12,4.0,Master
+2062,Quinn Thomas 62,47,Female,Operations,Associate,57456,5,4.3,Master
+2063,Casey Martinez 63,37,Non-Binary,Marketing,Junior,93969,18,4.1,PhD
+2064,Drew Garcia 64,56,Male,Operations,Lead,133376,16,4.8,High School
+2065,Casey Martinez 65,36,Non-Binary,IT,Junior,51092,17,3.4,PhD
+2066,Sam Williams 66,22,Non-Binary,Finance,Associate,43005,9,3.4,PhD
+2067,Riley Anderson 67,33,Non-Binary,Sales,Junior,49380,13,,Master
+2068,Avery Rodriguez 68,49,Female,Finance,Lead,96818,7,4.2,PhD
+2069,Morgan Wilson 69,34,Non-Binary,IT,Manager,36345,15,3.1,PhD
+2070,Taylor Davis 70,57,Female,Finance,Lead,117782,9,4.3,Bachelor
+2071,Riley Anderson 71,42,Male,Operations,Lead,131990,9,3.6,PhD
+2072,Alex Johnson 72,35,Non-Binary,IT,Junior,80078,3,4.5,PhD
+2073,Casey Martinez 73,59,Female,Marketing,Associate,90473,19,4.5,Master
+2074,Riley Anderson 74,32,Non-Binary,Marketing,Director,116454,12,3.2,Bachelor
+2075,Riley Anderson 75,58,Female,Sales,Manager,62229,13,3.5,Bachelor
+2076,Jordan Brown 76,54,Non-Binary,HR,Associate,56396,1,3.2,PhD
+2077,Taylor Davis 77,26,Female,Finance,Associate,86522,6,4.3,High School
+2078,Riley Anderson 78,24,Non-Binary,Finance,Senior,74367,3,4.5,High School
+2079,Casey Martinez 79,58,Female,Marketing,Associate,83500,14,4.9,Bachelor
+2080,Jordan Brown 80,46,Female,Sales,Lead,110045,10,4.8,PhD
+2081,Sam Williams 81,34,Male,Operations,Manager,78519,4,3.0,PhD
+2082,Taylor Davis 82,56,Non-Binary,Operations,Junior,111901,20,3.0,PhD
+2083,Sam Williams 83,48,Non-Binary,Sales,Manager,75354,3,3.3,PhD
+2084,Taylor Davis 84,33,Non-Binary,Operations,Associate,,8,3.4,Bachelor
+2085,Morgan Wilson 85,45,Female,Operations,Director,57883,10,4.1,PhD
+2086,Casey Martinez 86,25,Male,IT,Junior,74908,1,3.0,Master
+2087,Taylor Davis 87,54,Male,Sales,Associate,107219,5,4.2,High School
+2088,Morgan Wilson 88,28,Female,Marketing,Associate,70090,9,3.6,Bachelor
+2089,Jordan Brown 89,22,Female,Operations,Associate,53483,20,4.1,Bachelor
+2090,Sam Williams 90,35,Non-Binary,HR,Associate,38691,6,3.9,PhD
+2091,Sam Williams 91,47,Male,IT,Junior,61703,6,4.7,PhD
+2092,Jordan Brown 92,40,Female,HR,Senior,130247,13,3.1,Bachelor
+2093,Jordan Brown 93,61,Female,Operations,Director,101096,15,3.7,Master
+2094,Quinn Thomas 94,45,Non-Binary,Marketing,Manager,63544,14,4.3,High School
+2095,Drew Garcia 95,37,Female,Marketing,Director,41472,3,3.3,Master
+2096,Casey Martinez 96,27,Non-Binary,Sales,Associate,79037,3,3.5,Master
+2097,Sam Williams 97,43,Female,Marketing,Manager,61538,5,4.9,PhD
+2098,Quinn Thomas 98,30,Female,Marketing,Lead,79372,3,4.7,Bachelor
+2099,Avery Rodriguez 99,39,Male,Finance,Senior,89614,13,4.5,Bachelor
+2100,Taylor Davis 100,36,Male,HR,Associate,43313,14,4.0,Bachelor
+2101,Quinn Thomas 101,50,Non-Binary,Operations,Senior,69860,1,4.3,PhD
+2102,Sam Williams 102,40,Non-Binary,IT,Lead,105877,13,4.0,High School
+2103,Avery Rodriguez 103,22,Female,Finance,Manager,54404,16,4.1,Master
+2104,Casey Martinez 104,31,Male,HR,Junior,44387,6,4.5,Master
+2105,Sam Williams 105,44,Male,Operations,Lead,94221,19,3.8,Bachelor
+2106,Jordan Brown 106,32,Non-Binary,HR,Lead,79858,14,4.4,PhD
+2107,Drew Garcia 107,28,Male,Operations,Senior,84708,12,3.3,Bachelor
+2108,Sam Williams 108,30,Female,HR,Director,72312,17,4.3,Bachelor
+2109,Alex Johnson 109,32,Male,HR,Senior,110722,7,,Bachelor
+2110,Sam Williams 110,41,Non-Binary,Sales,Manager,133345,15,,PhD
+2111,Riley Anderson 111,61,Non-Binary,Sales,Senior,128818,6,4.5,PhD
+2112,Alex Johnson 112,26,Female,Operations,Director,79431,7,4.6,Master
+2113,Riley Anderson 113,60,Male,Operations,Junior,119272,9,,Bachelor
+2114,Riley Anderson 114,44,Female,Operations,Associate,62944,13,,Bachelor
+2115,Sam Williams 115,27,Non-Binary,IT,Manager,48717,12,,High School
+2116,Morgan Wilson 116,43,Male,IT,Associate,58122,8,3.1,Bachelor
+2117,Alex Johnson 117,42,Female,HR,Associate,101621,20,4.8,High School
+2118,Riley Anderson 118,32,Non-Binary,Finance,Lead,127037,13,4.8,PhD
+2119,Taylor Davis 119,43,Non-Binary,Sales,Junior,36691,8,4.6,Master
+2120,Riley Anderson 120,51,Female,IT,Senior,48362,1,3.3,Bachelor
+2121,Taylor Davis 121,29,Male,Finance,Senior,37194,8,4.7,Master
+2122,Taylor Davis 122,24,Male,Sales,Manager,131034,1,3.7,PhD
+2123,Casey Martinez 123,34,Female,Operations,Senior,77695,16,3.4,Master
+2124,Morgan Wilson 124,40,Male,Sales,Junior,128723,9,4.8,High School
+2125,Casey Martinez 125,36,Male,IT,Senior,108772,5,4.5,PhD
+2126,Quinn Thomas 126,58,Non-Binary,HR,Director,63122,13,4.8,Bachelor
+2127,Taylor Davis 127,55,Male,Marketing,Manager,126667,9,3.6,Master
+2128,Avery Rodriguez 128,42,Non-Binary,Marketing,Director,110394,20,4.6,Master
+2129,Alex Johnson 129,37,Female,IT,Director,132129,19,3.3,Master
+2130,Sam Williams 130,24,Non-Binary,Operations,Director,95861,6,4.9,High School
+2131,Sam Williams 131,44,Male,Operations,Manager,111701,9,3.8,PhD
+2132,Quinn Thomas 132,54,Male,Sales,Lead,42755,18,4.1,Master
+2133,Morgan Wilson 133,51,Male,Marketing,Lead,45651,19,3.6,Master
+2134,Morgan Wilson 134,51,Female,Operations,Lead,92950,20,3.3,Master
+2135,Quinn Thomas 135,36,Non-Binary,HR,Manager,43706,11,3.6,Bachelor
+2136,Morgan Wilson 136,30,Female,IT,Lead,102598,8,3.1,Master
+2137,Casey Martinez 137,50,Female,Sales,Junior,125402,15,3.8,PhD
+2138,Quinn Thomas 138,61,Female,Marketing,Junior,87573,11,3.1,High School
+2139,Morgan Wilson 139,35,Non-Binary,HR,Junior,127037,19,3.8,Bachelor
+2140,Quinn Thomas 140,54,Female,IT,Senior,,5,3.1,Master
+2141,Alex Johnson 141,60,Non-Binary,Finance,Lead,124730,10,4.4,PhD
+2142,Drew Garcia 142,37,Non-Binary,IT,Manager,58798,19,4.8,High School
+2143,Sam Williams 143,26,Non-Binary,Sales,Senior,45559,6,4.1,Master
+2144,Sam Williams 144,29,Non-Binary,Operations,Associate,93710,20,4.7,High School
+2145,Jordan Brown 145,60,Female,Sales,Junior,134567,7,3.6,Master
+2146,Alex Johnson 146,30,Male,Marketing,Associate,105757,20,,Bachelor
+2147,Alex Johnson 147,42,Non-Binary,Marketing,Manager,59963,15,4.0,PhD
+2148,Morgan Wilson 148,37,Male,Marketing,Manager,89648,8,4.7,PhD
+2149,Taylor Davis 149,46,Female,Sales,Senior,100279,19,4.2,Master
+2150,Jordan Brown 150,38,Female,IT,Senior,124503,9,3.2,High School
+2151,Quinn Thomas 151,35,Female,Marketing,Associate,66951,7,3.7,Bachelor
+2152,Riley Anderson 152,36,Male,Finance,Junior,72053,19,4.7,High School
+2153,Morgan Wilson 153,47,Male,Sales,Junior,60359,17,4.6,Bachelor
+2154,Drew Garcia 154,36,Male,Operations,Junior,53769,3,3.1,High School
+2155,Casey Martinez 155,27,Male,Marketing,Manager,97460,18,4.9,Master
+2156,Avery Rodriguez 156,56,Female,Operations,Director,124150,3,3.9,PhD
+2157,Drew Garcia 157,26,Female,Operations,Junior,82014,1,4.1,High School
+2158,Jordan Brown 158,48,Male,IT,Junior,49041,20,,Bachelor
+2159,Drew Garcia 159,23,Non-Binary,IT,Manager,102436,13,3.4,Bachelor
+2160,Alex Johnson 160,31,Male,HR,Manager,114338,3,4.3,Bachelor
+2161,Drew Garcia 161,47,Non-Binary,HR,Manager,85358,4,,High School
+2162,Riley Anderson 162,43,Non-Binary,HR,Senior,120039,2,3.5,PhD
+2163,Quinn Thomas 163,51,Non-Binary,Operations,Junior,94857,8,4.8,High School
+2164,Casey Martinez 164,46,Female,Marketing,Director,131533,8,4.6,High School
+2165,Quinn Thomas 165,53,Male,HR,Associate,117314,8,3.9,PhD
+2166,Alex Johnson 166,42,Non-Binary,Operations,Senior,102309,11,3.7,Bachelor
+2167,Casey Martinez 167,25,Non-Binary,HR,Associate,91501,12,3.9,High School
+2168,Quinn Thomas 168,29,Male,HR,Senior,126016,13,4.7,Bachelor
+2169,Casey Martinez 169,40,Non-Binary,Marketing,Senior,101505,1,3.4,PhD
+2170,Alex Johnson 170,26,Male,Marketing,Senior,109402,6,3.6,Bachelor
+2171,Avery Rodriguez 171,57,Non-Binary,IT,Lead,101780,15,,Bachelor
+2172,Morgan Wilson 172,40,Female,Finance,Associate,129170,7,3.9,PhD
+2173,Avery Rodriguez 173,50,Male,Sales,Manager,105207,20,3.7,Master
+2174,Casey Martinez 174,25,Non-Binary,Sales,Lead,68198,20,4.1,Bachelor
+2175,Morgan Wilson 175,49,Male,IT,Associate,67948,1,4.9,High School
+2176,Drew Garcia 176,25,Non-Binary,Operations,Associate,50594,12,,Bachelor
+2177,Morgan Wilson 177,26,Non-Binary,Operations,Junior,112298,9,3.5,High School
+2178,Riley Anderson 178,23,Non-Binary,Finance,Lead,54294,6,3.0,PhD
+2179,Sam Williams 179,38,Non-Binary,Marketing,Director,110781,16,,Master
+2180,Alex Johnson 180,43,Female,Finance,Manager,63510,13,3.2,Master
+2181,Taylor Davis 181,44,Female,Marketing,Associate,104464,9,4.3,High School
+2182,Drew Garcia 182,40,Female,IT,Director,,6,4.1,Bachelor
+2183,Riley Anderson 183,51,Male,HR,Director,93182,18,4.7,High School
+2184,Taylor Davis 184,22,Male,Operations,Associate,81589,2,3.4,High School
+2185,Avery Rodriguez 185,24,Female,Finance,Lead,66630,6,4.6,Bachelor
+2186,Casey Martinez 186,57,Non-Binary,Operations,Associate,114121,2,3.7,PhD
+2187,Casey Martinez 187,55,Non-Binary,IT,Junior,110051,3,4.0,High School
+2188,Morgan Wilson 188,48,Non-Binary,Sales,Associate,81068,20,4.1,Master
+2189,Casey Martinez 189,54,Male,IT,Junior,131790,13,3.6,PhD
+2190,Sam Williams 190,30,Non-Binary,IT,Manager,111292,4,4.0,PhD
+2191,Taylor Davis 191,29,Male,Operations,Junior,99934,10,4.4,Bachelor
+2192,Sam Williams 192,54,Non-Binary,Operations,Manager,111858,10,4.9,High School
+2193,Riley Anderson 193,51,Non-Binary,IT,Manager,104607,20,4.0,PhD
+2194,Avery Rodriguez 194,37,Female,Sales,Associate,41681,14,3.4,Bachelor
+2195,Morgan Wilson 195,52,Male,Marketing,Lead,53078,16,4.9,PhD
+2196,Taylor Davis 196,35,Male,Operations,Senior,72714,6,4.8,Bachelor
+2197,Alex Johnson 197,31,Female,Sales,Associate,56436,10,,Master
+2198,Riley Anderson 198,37,Female,HR,Director,85310,3,5.0,PhD
+2199,Alex Johnson 199,41,Female,Finance,Manager,,5,3.4,Master
+2200,Alex Johnson 200,53,Non-Binary,Sales,Senior,36906,1,4.2,Bachelor
+2201,Sam Williams 201,53,Non-Binary,IT,Senior,92078,14,4.2,PhD
+2202,Casey Martinez 202,48,Non-Binary,IT,Associate,114720,3,,Bachelor
+2203,Riley Anderson 203,29,Non-Binary,Sales,Lead,101139,18,3.8,Master
+2204,Quinn Thomas 204,60,Female,HR,Junior,40875,11,4.2,Bachelor
+2205,Jordan Brown 205,52,Female,HR,Associate,131036,18,3.3,Master
+2206,Quinn Thomas 206,35,Female,IT,Director,103639,19,,Bachelor
+2207,Alex Johnson 207,56,Female,IT,Junior,130794,11,4.5,PhD
+2208,Avery Rodriguez 208,41,Non-Binary,HR,Senior,130291,14,3.8,Master
+2209,Morgan Wilson 209,28,Non-Binary,Marketing,Senior,121307,3,4.7,Master
+2210,Avery Rodriguez 210,37,Non-Binary,Operations,Associate,47922,14,4.5,Bachelor
+2211,Avery Rodriguez 211,57,Non-Binary,Marketing,Lead,109339,16,3.8,PhD
+2212,Sam Williams 212,30,Non-Binary,HR,Senior,115709,18,3.4,High School
+2213,Drew Garcia 213,39,Female,Finance,Associate,53443,18,,Master
+2214,Alex Johnson 214,26,Non-Binary,Finance,Director,102859,4,3.9,PhD
+2215,Casey Martinez 215,38,Non-Binary,Sales,Manager,121661,3,3.5,High School
+2216,Jordan Brown 216,57,Non-Binary,Marketing,Senior,,1,3.4,Bachelor
+2217,Taylor Davis 217,31,Non-Binary,IT,Associate,81670,7,4.8,High School
+2218,Casey Martinez 218,57,Female,Sales,Manager,122156,3,,PhD
+2219,Avery Rodriguez 219,27,Non-Binary,Sales,Junior,134252,7,4.7,Bachelor
+2220,Avery Rodriguez 220,38,Non-Binary,Finance,Director,133034,11,4.8,Bachelor
+2221,Alex Johnson 221,32,Female,Finance,Associate,72244,5,4.4,PhD
+2222,Jordan Brown 222,26,Female,Finance,Manager,63770,17,4.6,Master
+2223,Jordan Brown 223,35,Non-Binary,Marketing,Senior,56941,2,4.0,Bachelor
+2224,Jordan Brown 224,57,Male,Marketing,Associate,64800,13,4.9,PhD
+2225,Drew Garcia 225,38,Male,IT,Manager,76907,17,4.5,High School
+2226,Casey Martinez 226,58,Male,HR,Director,49274,3,3.2,Master
+2227,Morgan Wilson 227,29,Male,IT,Manager,102493,3,3.0,Master
+2228,Casey Martinez 228,32,Female,Operations,Manager,93238,20,4.7,PhD
+2229,Casey Martinez 229,47,Male,HR,Senior,58315,10,4.7,PhD
+2230,Sam Williams 230,55,Non-Binary,Marketing,Manager,97518,6,4.5,Bachelor
+2231,Riley Anderson 231,30,Non-Binary,Marketing,Junior,83872,7,4.8,PhD
+2232,Sam Williams 232,48,Female,Finance,Director,95990,15,3.9,PhD
+2233,Riley Anderson 233,55,Female,Sales,Junior,80963,8,3.6,Bachelor
+2234,Quinn Thomas 234,24,Non-Binary,Finance,Senior,116084,5,3.3,PhD
+2235,Jordan Brown 235,25,Female,Marketing,Senior,38532,13,3.8,Master
+2236,Avery Rodriguez 236,35,Non-Binary,HR,Lead,,20,,Bachelor
+2237,Alex Johnson 237,57,Male,IT,Manager,105111,13,,Bachelor
+2238,Avery Rodriguez 238,55,Male,Finance,Associate,46500,13,4.6,High School
+2239,Riley Anderson 239,29,Male,Marketing,Director,72083,6,3.6,High School
+2240,Avery Rodriguez 240,56,Male,Marketing,Senior,79272,5,3.2,PhD
+2241,Drew Garcia 241,56,Non-Binary,Operations,Manager,79997,8,4.8,PhD
+2242,Jordan Brown 242,39,Male,HR,Junior,117680,6,4.9,High School
+2243,Alex Johnson 243,32,Male,IT,Manager,134642,5,4.8,PhD
+2244,Alex Johnson 244,33,Non-Binary,Marketing,Associate,35524,17,5.0,PhD
+2245,Avery Rodriguez 245,57,Male,HR,Junior,,16,4.5,Master
+2246,Alex Johnson 246,45,Male,Finance,Lead,42380,9,4.4,Master
+2247,Drew Garcia 247,42,Female,Operations,Director,44477,15,4.0,Master
+2248,Riley Anderson 248,51,Male,Operations,Associate,125031,17,4.5,PhD
+2249,Casey Martinez 249,41,Non-Binary,Sales,Junior,94757,13,,High School
+2250,Drew Garcia 250,43,Non-Binary,Finance,Director,77250,16,3.7,PhD
+2251,Avery Rodriguez 251,41,Male,IT,Director,99668,1,3.8,High School
+2252,Casey Martinez 252,43,Male,HR,Director,99541,8,3.9,PhD
+2253,Avery Rodriguez 253,61,Non-Binary,Marketing,Senior,96524,20,4.6,PhD
+2254,Jordan Brown 254,39,Female,Finance,Senior,107977,12,4.0,Master
+2255,Alex Johnson 255,52,Female,Sales,Director,85775,17,4.0,Bachelor
+2256,Quinn Thomas 256,41,Male,Sales,Associate,117930,8,3.3,High School
+2257,Alex Johnson 257,48,Female,Marketing,Junior,74385,2,3.2,High School
+2258,Sam Williams 258,30,Male,Sales,Director,134032,4,3.7,Master
+2259,Alex Johnson 259,58,Non-Binary,Operations,Manager,86247,8,4.2,Master
+2260,Taylor Davis 260,32,Male,HR,Senior,41668,10,3.0,Master
+2261,Taylor Davis 261,53,Non-Binary,Finance,Lead,129013,19,4.5,High School
+2262,Avery Rodriguez 262,56,Male,Operations,Senior,100148,10,4.1,High School
+2263,Morgan Wilson 263,30,Male,HR,Junior,117266,2,3.6,Master
+2264,Jordan Brown 264,31,Male,Marketing,Lead,108811,7,,High School
+2265,Casey Martinez 265,56,Non-Binary,Finance,Director,129363,20,,Master
+2266,Sam Williams 266,45,Female,Marketing,Associate,85171,15,4.8,PhD
+2267,Quinn Thomas 267,31,Female,Marketing,Manager,47868,6,4.1,High School
+2268,Sam Williams 268,44,Male,Marketing,Director,109436,6,,Master
+2269,Taylor Davis 269,25,Non-Binary,IT,Lead,46028,19,3.8,Bachelor
+2270,Riley Anderson 270,32,Female,Marketing,Associate,67055,19,4.0,High School
+2271,Quinn Thomas 271,38,Female,Sales,Senior,72498,3,4.3,Master
+2272,Avery Rodriguez 272,57,Male,Operations,Associate,53592,7,4.8,Master
+2273,Avery Rodriguez 273,39,Male,Finance,Lead,51948,8,4.9,PhD
+2274,Sam Williams 274,48,Male,Marketing,Senior,87816,3,3.2,Master
+2275,Sam Williams 275,43,Female,Marketing,Director,126045,8,3.6,Master
+2276,Jordan Brown 276,24,Female,HR,Manager,83590,8,3.8,Master
+2277,Drew Garcia 277,41,Female,Operations,Director,74430,5,3.6,Master
+2278,Avery Rodriguez 278,34,Non-Binary,Marketing,Manager,,18,4.5,PhD
+2279,Jordan Brown 279,44,Female,Sales,Associate,113257,10,4.8,Bachelor
+2280,Casey Martinez 280,35,Female,IT,Manager,120183,17,4.8,High School
+2281,Casey Martinez 281,49,Male,IT,Associate,97666,8,4.7,High School
+2282,Jordan Brown 282,36,Male,IT,Lead,118195,12,,Bachelor
+2283,Jordan Brown 283,24,Non-Binary,Operations,Manager,76296,20,3.8,PhD
+2284,Casey Martinez 284,37,Female,Operations,Senior,88780,15,4.7,PhD
+2285,Jordan Brown 285,56,Female,HR,Senior,85872,7,4.0,High School
+2286,Riley Anderson 286,31,Non-Binary,HR,Associate,84481,7,3.6,PhD
+2287,Quinn Thomas 287,52,Male,Finance,Lead,132372,14,4.3,PhD
+2288,Taylor Davis 288,28,Non-Binary,Marketing,Director,94174,3,,Master
+2289,Avery Rodriguez 289,51,Male,IT,Manager,51437,6,3.3,Bachelor
+2290,Drew Garcia 290,26,Female,Marketing,Senior,51731,9,4.2,PhD
+2291,Taylor Davis 291,48,Male,HR,Senior,53166,1,3.4,High School
+2292,Taylor Davis 292,30,Female,Marketing,Lead,62084,16,4.4,High School
+2293,Morgan Wilson 293,45,Male,IT,Associate,59802,18,,Bachelor
+2294,Drew Garcia 294,41,Non-Binary,Operations,Director,43765,19,5.0,PhD
+2295,Riley Anderson 295,58,Male,Finance,Lead,114129,1,4.6,Bachelor
+2296,Jordan Brown 296,43,Non-Binary,Finance,Manager,131583,8,4.6,High School
+2297,Drew Garcia 297,27,Non-Binary,Marketing,Manager,122861,3,3.4,Master
+2298,Avery Rodriguez 298,56,Male,IT,Manager,58241,19,,PhD
+2299,Riley Anderson 299,35,Male,Finance,Associate,116028,8,3.2,Bachelor
+2300,Avery Rodriguez 300,59,Male,Marketing,Associate,111275,18,3.5,PhD

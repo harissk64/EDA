@@ -1,0 +1,501 @@
+OrderID,CustomerID,CustomerName,Product,Category,Quantity,Price,OrderDate,Region,PaymentMethod
+1001,101,Sarah Davis,Monitor,Electronics,4,494.71,2024-04-30,East,Bank Transfer
+1002,102,John Smith,Charger,Audio,2,1037.10,2024-10-30,Central,Credit Card
+1003,103,Sarah Davis,Monitor,Computers,1,287.26,2024-12-12,West,PayPal
+1004,104,Emily Taylor,Headphones,Audio,3,640.76,2024-01-06,North,Debit Card
+1005,105,James Wilson,Speaker,Electronics,3,361.71,2024-06-12,South,Bank Transfer
+1006,106,Sarah Davis,Monitor,Computers,1,249.20,2024-12-21,South,PayPal
+1007,107,Emma Johnson,Keyboard,Electronics,1,186.58,2024-03-05,South,Bank Transfer
+1008,108,Emma Johnson,Phone,Computers,4,548.33,2024-12-15,South,Debit Card
+1009,109,Robert Martinez,Keyboard,Computers,2,170.44,2024-08-20,East,Debit Card
+1010,110,David Anderson,Laptop,Electronics,3,185.76,2024-04-25,West,Cash
+1011,111,Robert Martinez,Keyboard,Computers,3,924.57,2024-06-09,Central,Debit Card
+1012,112,Michael Brown,Webcam,Accessories,1,139.23,2024-12-06,West,PayPal
+1013,113,Robert Martinez,Headphones,Electronics,4,381.87,2024-11-11,West,Bank Transfer
+1014,114,Michael Brown,Phone,Electronics,4,331.68,2024-03-11,Central,Cash
+1015,115,Emma Johnson,Webcam,Computers,2,875.34,2024-03-07,Central,Credit Card
+1016,116,Lisa Thomas,Monitor,Electronics,2,820.71,2024-12-07,East,Cash
+1017,117,James Wilson,Mouse,Peripherals,5,345.56,2024-11-11,West,Cash
+1018,118,Lisa Thomas,Headphones,Computers,5,644.22,2024-03-04,North,Credit Card
+1019,119,Michael Brown,Headphones,Audio,4,374.59,2024-03-12,Central,Debit Card
+1020,120,Robert Martinez,Charger,Computers,5,73.18,2024-04-16,North,Credit Card
+1021,121,Emma Johnson,Webcam,Electronics,4,357.42,2024-07-08,North,Debit Card
+1022,122,John Smith,Phone,Electronics,3,774.51,2024-04-11,Central,Credit Card
+1023,123,David Anderson,Tablet,Peripherals,1,707.47,2024-10-15,North,Credit Card
+1024,124,Robert Martinez,Headphones,Electronics,5,467.87,2024-07-26,South,Credit Card
+1025,125,Michael Brown,Charger,Audio,1,176.82,2024-04-16,East,Bank Transfer
+1026,126,Emily Taylor,Monitor,Accessories,3,148.10,2024-03-06,Central,Bank Transfer
+1027,127,Sarah Davis,Tablet,Accessories,1,196.23,2024-07-12,North,PayPal
+1028,128,John Smith,Tablet,Computers,5,289.80,2024-12-15,South,PayPal
+1029,129,Lisa Thomas,Keyboard,Computers,4,627.73,2024-05-03,West,Debit Card
+1030,130,Emily Taylor,Charger,Peripherals,2,177.22,2024-05-20,Central,Debit Card
+1031,131,Robert Martinez,Laptop,Audio,3,604.14,2024-11-02,South,Debit Card
+1032,132,Michael Brown,Charger,Computers,4,373.80,2024-01-10,West,Credit Card
+1033,133,Sarah Davis,Webcam,Accessories,3,303.82,2024-09-11,West,Credit Card
+1034,134,Sarah Davis,Headphones,Accessories,2,1008.73,2024-09-08,East,Bank Transfer
+1035,135,Sarah Davis,Laptop,Electronics,4,226.69,2024-06-15,East,Cash
+1036,136,Emma Johnson,Mouse,Peripherals,4,402.87,2024-02-09,West,PayPal
+1037,137,Michael Brown,Charger,Accessories,2,240.31,2024-01-18,Central,PayPal
+1038,138,James Wilson,Headphones,Audio,3,556.34,2024-06-27,East,Bank Transfer
+1039,139,Michael Brown,Headphones,Audio,1,901.47,2024-07-03,West,Bank Transfer
+1040,140,Lisa Thomas,Phone,Electronics,5,450.88,2024-03-31,Central,PayPal
+1041,141,Sarah Davis,Laptop,Accessories,3,503.29,2024-04-21,North,Credit Card
+1042,142,Lisa Thomas,Charger,Peripherals,4,721.48,2024-03-02,South,PayPal
+1043,143,David Anderson,Speaker,Audio,4,642.53,2024-07-13,Central,PayPal
+1044,144,Lisa Thomas,Monitor,Accessories,5,137.35,2024-12-16,Central,Cash
+1045,145,Emily Taylor,Keyboard,Accessories,1,929.59,2024-08-31,West,Credit Card
+1046,146,Jennifer Garcia,Laptop,Electronics,5,477.71,2024-01-10,West,Bank Transfer
+1047,147,David Anderson,Tablet,Accessories,3,354.62,2024-11-28,North,Debit Card
+1048,148,James Wilson,Tablet,Computers,1,295.94,2024-06-18,East,PayPal
+1049,149,Robert Martinez,Charger,Electronics,4,886.41,2024-07-17,West,Credit Card
+1050,150,Emma Johnson,Speaker,Computers,4,851.18,2024-12-29,North,Debit Card
+1051,151,Sarah Davis,Charger,Peripherals,3,658.34,2024-06-29,East,Credit Card
+1052,152,James Wilson,Speaker,Accessories,3,338.69,2024-03-04,South,Cash
+1053,153,Michael Brown,Monitor,Computers,3,915.24,2024-11-17,South,PayPal
+1054,154,Sarah Davis,Mouse,Accessories,4,284.69,2024-03-31,Central,Bank Transfer
+1055,155,James Wilson,Phone,Peripherals,4,227.95,2024-03-19,West,Credit Card
+1056,156,Michael Brown,Charger,Accessories,3,766.07,2024-11-21,East,Bank Transfer
+1057,157,Jennifer Garcia,Tablet,Peripherals,2,428.50,2024-04-12,West,Credit Card
+1058,158,Emily Taylor,Webcam,Peripherals,4,1037.29,2024-04-16,West,Bank Transfer
+1059,159,Sarah Davis,Charger,Peripherals,3,364.08,2024-11-18,North,Cash
+1060,160,John Smith,Monitor,Computers,5,343.47,2024-01-07,East,Cash
+1061,161,David Anderson,Charger,Computers,4,232.52,2024-09-08,South,PayPal
+1062,162,Michael Brown,Laptop,Peripherals,5,1015.01,2024-08-18,Central,Credit Card
+1063,163,James Wilson,Webcam,Audio,2,479.98,2024-07-13,South,PayPal
+1064,164,Robert Martinez,Speaker,Accessories,3,756.43,2024-01-29,East,Debit Card
+1065,165,John Smith,Monitor,Accessories,2,838.17,2024-08-31,Central,Debit Card
+1066,166,Robert Martinez,Mouse,Accessories,2,395.56,2024-06-14,South,Cash
+1067,167,James Wilson,Charger,Peripherals,3,112.41,2024-07-21,South,Bank Transfer
+1068,168,Michael Brown,Charger,Audio,5,445.37,2024-01-03,North,Debit Card
+1069,169,James Wilson,Mouse,Audio,2,96.39,2024-04-15,East,PayPal
+1070,170,Sarah Davis,Phone,Computers,2,55.72,2024-04-22,East,Debit Card
+1071,171,Michael Brown,Webcam,Audio,1,1045.33,2024-02-16,East,Bank Transfer
+1072,172,Jennifer Garcia,Webcam,Peripherals,5,587.44,2024-11-24,North,Bank Transfer
+1073,173,Jennifer Garcia,Webcam,Accessories,2,103.61,2024-12-27,South,Credit Card
+1074,174,James Wilson,Tablet,Accessories,1,99.81,2024-12-21,West,Bank Transfer
+1075,175,John Smith,Webcam,Electronics,3,403.56,2024-10-31,North,Credit Card
+1076,176,David Anderson,Headphones,Accessories,5,251.88,2024-01-11,South,Bank Transfer
+1077,177,Emma Johnson,Headphones,Computers,3,608.62,2024-06-28,South,PayPal
+1078,178,Emily Taylor,Headphones,Peripherals,2,233.60,2024-12-16,West,Cash
+1079,179,Michael Brown,Tablet,Electronics,2,207.88,2024-06-09,Central,Cash
+1080,180,David Anderson,Mouse,Computers,1,851.78,2024-06-08,South,Debit Card
+1081,181,Sarah Davis,Phone,Accessories,5,751.46,2024-01-08,West,Debit Card
+1082,182,Emily Taylor,Keyboard,Electronics,2,345.25,2024-09-03,Central,Cash
+1083,183,Michael Brown,Charger,Electronics,3,709.19,2024-06-01,West,Credit Card
+1084,184,Lisa Thomas,Headphones,Audio,1,725.50,2024-11-15,North,Credit Card
+1085,185,John Smith,Speaker,Accessories,2,818.99,2024-07-12,West,Cash
+1086,186,Michael Brown,Mouse,Electronics,3,414.79,2024-06-04,Central,Debit Card
+1087,187,James Wilson,Charger,Computers,2,932.08,2024-05-06,East,Cash
+1088,188,Michael Brown,Charger,Electronics,1,343.44,2024-08-22,South,Bank Transfer
+1089,189,Michael Brown,Mouse,Accessories,5,934.83,2024-08-04,East,PayPal
+1090,190,Jennifer Garcia,Speaker,Audio,1,228.07,2024-03-29,Central,Cash
+1091,191,Jennifer Garcia,Charger,Accessories,4,409.96,2024-12-10,Central,Credit Card
+1092,192,Jennifer Garcia,Laptop,Computers,2,925.47,2024-12-18,South,PayPal
+1093,193,John Smith,Keyboard,Computers,3,123.51,2024-04-13,West,Credit Card
+1094,194,John Smith,Laptop,Accessories,5,393.23,2024-04-10,South,PayPal
+1095,195,James Wilson,Phone,Peripherals,3,296.81,2024-08-04,North,Debit Card
+1096,196,David Anderson,Speaker,Audio,2,412.83,2024-02-13,North,Debit Card
+1097,197,Emily Taylor,Mouse,Electronics,3,427.78,2024-10-02,North,Bank Transfer
+1098,198,Jennifer Garcia,Tablet,Electronics,1,64.65,2024-09-13,South,Debit Card
+1099,199,David Anderson,Tablet,Audio,1,589.95,2024-06-29,Central,Cash
+1100,200,John Smith,Headphones,Accessories,3,736.59,2024-03-20,Central,PayPal
+1101,201,Emily Taylor,Charger,Computers,2,157.24,2024-06-14,South,Debit Card
+1102,202,John Smith,Tablet,Accessories,1,747.29,2024-01-04,South,Cash
+1103,203,Lisa Thomas,Speaker,Audio,5,218.97,2024-02-01,East,Cash
+1104,204,Sarah Davis,Webcam,Electronics,1,139.72,2024-10-11,East,Bank Transfer
+1105,205,James Wilson,Tablet,Peripherals,2,1036.30,2024-07-16,West,Credit Card
+1106,206,John Smith,Tablet,Peripherals,5,1045.58,2024-04-18,Central,PayPal
+1107,207,Sarah Davis,Keyboard,Peripherals,3,195.65,2024-01-29,Central,Debit Card
+1108,208,Michael Brown,Laptop,Accessories,1,859.45,2024-03-23,North,Credit Card
+1109,209,Michael Brown,Speaker,Peripherals,1,402.10,2024-10-18,North,PayPal
+1110,210,Emily Taylor,Monitor,Computers,4,836.17,2024-04-14,East,Debit Card
+1111,211,Lisa Thomas,Mouse,Audio,5,493.75,2024-01-20,North,Credit Card
+1112,212,Emma Johnson,Keyboard,Audio,5,447.76,2024-02-13,West,Cash
+1113,213,John Smith,Keyboard,Electronics,4,986.02,2024-11-06,East,Cash
+1114,214,Lisa Thomas,Mouse,Electronics,1,794.37,2024-06-05,West,Credit Card
+1115,215,Lisa Thomas,Phone,Electronics,4,937.60,2024-12-17,West,Credit Card
+1116,216,John Smith,Laptop,Peripherals,1,1011.26,2024-10-08,South,PayPal
+1117,217,Jennifer Garcia,Webcam,Audio,2,341.19,2024-02-18,South,Credit Card
+1118,218,David Anderson,Phone,Accessories,2,956.83,2024-05-17,North,Bank Transfer
+1119,219,Jennifer Garcia,Laptop,Audio,5,299.88,2024-10-08,Central,PayPal
+1120,220,Sarah Davis,Speaker,Computers,4,816.94,2024-03-05,South,Cash
+1121,221,Michael Brown,Monitor,Computers,2,499.54,2024-08-29,North,Credit Card
+1122,222,James Wilson,Speaker,Electronics,5,151.52,2024-01-17,West,Debit Card
+1123,223,John Smith,Tablet,Computers,5,527.82,2024-07-15,South,Debit Card
+1124,224,Sarah Davis,Tablet,Audio,4,506.07,2024-12-18,East,Cash
+1125,225,Robert Martinez,Speaker,Audio,5,750.30,2024-03-31,South,Debit Card
+1126,226,John Smith,Webcam,Peripherals,4,53.67,2024-11-02,Central,PayPal
+1127,227,Robert Martinez,Monitor,Audio,5,383.21,2024-04-04,Central,PayPal
+1128,228,Robert Martinez,Speaker,Electronics,3,793.98,2024-03-09,South,Cash
+1129,229,Lisa Thomas,Monitor,Audio,2,82.76,2024-12-15,South,Credit Card
+1130,230,John Smith,Headphones,Computers,1,1020.35,2024-10-30,South,Bank Transfer
+1131,231,Lisa Thomas,Headphones,Accessories,4,947.75,2024-07-14,West,Debit Card
+1132,232,Emily Taylor,Webcam,Audio,4,721.86,2024-05-28,North,Debit Card
+1133,233,Robert Martinez,Laptop,Computers,1,361.48,2024-01-18,North,Bank Transfer
+1134,234,David Anderson,Tablet,Audio,4,472.02,2024-05-17,East,Bank Transfer
+1135,235,Robert Martinez,Phone,Electronics,3,171.45,2024-02-09,West,Cash
+1136,236,Sarah Davis,Monitor,Accessories,4,944.44,2024-08-02,East,Debit Card
+1137,237,Michael Brown,Webcam,Audio,2,467.30,2024-05-24,South,Credit Card
+1138,238,Jennifer Garcia,Charger,Audio,5,796.50,2024-01-14,West,PayPal
+1139,239,John Smith,Laptop,Computers,3,326.61,2024-02-25,East,Credit Card
+1140,240,John Smith,Tablet,Accessories,2,908.53,2024-11-11,South,Credit Card
+1141,241,Lisa Thomas,Headphones,Computers,3,748.94,2024-03-03,West,Bank Transfer
+1142,242,Jennifer Garcia,Webcam,Accessories,5,224.10,2024-12-02,East,Credit Card
+1143,243,Lisa Thomas,Charger,Audio,4,697.05,2024-03-30,South,PayPal
+1144,244,Michael Brown,Tablet,Electronics,3,261.88,2024-09-13,South,PayPal
+1145,245,Michael Brown,Laptop,Electronics,2,476.22,2024-10-21,South,Credit Card
+1146,246,John Smith,Keyboard,Computers,2,745.64,2024-06-19,West,PayPal
+1147,247,Emily Taylor,Keyboard,Peripherals,4,918.89,2024-09-13,North,Credit Card
+1148,248,David Anderson,Keyboard,Accessories,5,215.90,2024-03-01,North,PayPal
+1149,249,Sarah Davis,Monitor,Audio,1,216.05,2024-11-23,East,PayPal
+1150,250,Robert Martinez,Tablet,Electronics,4,417.26,2024-07-25,South,Cash
+1151,251,Michael Brown,Webcam,Audio,2,518.48,2024-12-19,West,PayPal
+1152,252,Robert Martinez,Laptop,Accessories,3,997.27,2024-07-26,South,Debit Card
+1153,253,Robert Martinez,Webcam,Electronics,5,694.35,2024-03-03,East,Credit Card
+1154,254,Emma Johnson,Headphones,Electronics,4,279.93,2024-08-30,East,Credit Card
+1155,255,Lisa Thomas,Laptop,Peripherals,2,1032.42,2024-12-21,South,Cash
+1156,256,Michael Brown,Monitor,Computers,2,137.86,2024-02-09,Central,Bank Transfer
+1157,257,Sarah Davis,Speaker,Accessories,3,227.37,2024-03-11,South,Credit Card
+1158,258,David Anderson,Headphones,Computers,4,254.88,2024-11-19,South,Bank Transfer
+1159,259,David Anderson,Charger,Accessories,5,1001.22,2024-10-31,North,Credit Card
+1160,260,Emma Johnson,Speaker,Peripherals,4,631.36,2024-05-05,Central,Credit Card
+1161,261,James Wilson,Speaker,Peripherals,5,774.48,2024-01-23,Central,Cash
+1162,262,David Anderson,Keyboard,Computers,1,273.65,2024-06-05,East,Bank Transfer
+1163,263,Jennifer Garcia,Charger,Accessories,4,397.86,2024-02-01,East,Cash
+1164,264,Lisa Thomas,Phone,Electronics,2,1036.89,2024-05-19,East,PayPal
+1165,265,Emily Taylor,Charger,Electronics,5,905.09,2024-11-05,Central,Cash
+1166,266,Emily Taylor,Keyboard,Accessories,2,658.12,2024-08-03,South,Bank Transfer
+1167,267,Robert Martinez,Headphones,Accessories,4,701.33,2024-03-16,North,Cash
+1168,268,Michael Brown,Phone,Peripherals,2,360.21,2024-05-11,South,Cash
+1169,269,Sarah Davis,Headphones,Peripherals,2,721.44,2024-04-26,North,PayPal
+1170,270,Emma Johnson,Monitor,Peripherals,1,700.32,2024-03-03,West,Credit Card
+1171,271,Sarah Davis,Webcam,Computers,4,702.99,2024-11-06,Central,Credit Card
+1172,272,Sarah Davis,Headphones,Computers,5,324.73,2024-06-15,South,PayPal
+1173,273,Robert Martinez,Charger,Computers,2,773.71,2024-01-16,South,Bank Transfer
+1174,274,Michael Brown,Monitor,Electronics,1,687.25,2024-02-26,Central,Cash
+1175,275,Sarah Davis,Keyboard,Peripherals,4,729.26,2024-02-24,North,PayPal
+1176,276,Emma Johnson,Mouse,Peripherals,2,977.02,2024-05-01,East,Bank Transfer
+1177,277,Emily Taylor,Charger,Accessories,1,680.93,2024-08-28,East,Debit Card
+1178,278,Michael Brown,Mouse,Peripherals,3,308.67,2024-03-10,East,Bank Transfer
+1179,279,James Wilson,Tablet,Computers,2,253.05,2024-02-05,Central,Cash
+1180,280,Robert Martinez,Phone,Computers,4,140.02,2024-07-22,South,PayPal
+1181,281,James Wilson,Webcam,Accessories,5,271.57,2024-10-10,West,Debit Card
+1182,282,Lisa Thomas,Monitor,Audio,4,478.94,2024-06-24,West,Bank Transfer
+1183,283,Robert Martinez,Laptop,Accessories,2,694.66,2024-11-13,East,Credit Card
+1184,284,Lisa Thomas,Headphones,Electronics,3,167.84,2024-04-17,South,Bank Transfer
+1185,285,Sarah Davis,Headphones,Electronics,1,1025.77,2024-01-29,North,Credit Card
+1186,286,James Wilson,Laptop,Electronics,2,414.51,2024-10-07,East,Credit Card
+1187,287,John Smith,Keyboard,Computers,3,662.89,2024-05-19,Central,Bank Transfer
+1188,288,Emily Taylor,Charger,Audio,1,508.45,2024-05-23,Central,Debit Card
+1189,289,James Wilson,Keyboard,Peripherals,4,379.56,2024-10-03,North,Credit Card
+1190,290,David Anderson,Laptop,Computers,1,798.01,2024-11-27,South,Credit Card
+1191,291,Lisa Thomas,Speaker,Electronics,2,957.66,2024-09-01,West,Debit Card
+1192,292,Lisa Thomas,Speaker,Computers,3,227.85,2024-07-06,West,Cash
+1193,293,Robert Martinez,Tablet,Peripherals,1,100.27,2024-07-31,West,Debit Card
+1194,294,Jennifer Garcia,Speaker,Audio,5,112.24,2024-08-01,South,PayPal
+1195,295,John Smith,Keyboard,Peripherals,2,818.56,2024-11-21,South,PayPal
+1196,296,James Wilson,Monitor,Audio,3,251.92,2024-12-27,Central,Debit Card
+1197,297,David Anderson,Monitor,Electronics,3,1007.97,2024-01-11,Central,PayPal
+1198,298,Emma Johnson,Tablet,Computers,4,209.85,2024-12-26,Central,Credit Card
+1199,299,James Wilson,Headphones,Electronics,5,715.53,2024-09-25,North,Cash
+1200,300,David Anderson,Phone,Peripherals,2,89.34,2024-05-02,West,Cash
+1201,301,David Anderson,Webcam,Audio,2,358.31,2024-07-30,Central,Credit Card
+1202,302,John Smith,Phone,Electronics,4,805.58,2024-01-18,North,Debit Card
+1203,303,John Smith,Tablet,Computers,4,201.78,2024-03-12,East,Bank Transfer
+1204,304,John Smith,Webcam,Computers,5,698.84,2024-02-06,East,Bank Transfer
+1205,305,Lisa Thomas,Monitor,Computers,5,577.37,2024-11-17,West,Cash
+1206,306,Michael Brown,Mouse,Accessories,1,739.02,2024-04-03,Central,Debit Card
+1207,307,Jennifer Garcia,Webcam,Audio,3,315.12,2024-07-02,East,Debit Card
+1208,308,Emily Taylor,Mouse,Electronics,4,877.90,2024-07-06,North,Debit Card
+1209,309,Jennifer Garcia,Charger,Accessories,2,185.82,2024-08-13,East,Debit Card
+1210,310,Michael Brown,Charger,Computers,2,346.31,2024-06-01,West,Credit Card
+1211,311,Jennifer Garcia,Keyboard,Accessories,2,329.91,2024-08-13,South,Bank Transfer
+1212,312,Jennifer Garcia,Tablet,Computers,5,820.45,2024-04-14,Central,Bank Transfer
+1213,313,David Anderson,Laptop,Accessories,1,641.69,2024-05-04,East,Bank Transfer
+1214,314,Emma Johnson,Tablet,Computers,2,754.76,2024-12-07,Central,PayPal
+1215,315,Emily Taylor,Charger,Electronics,4,235.17,2024-10-21,South,Cash
+1216,316,David Anderson,Charger,Electronics,3,930.42,2024-10-21,West,Credit Card
+1217,317,James Wilson,Headphones,Audio,1,423.61,2024-02-17,East,PayPal
+1218,318,Robert Martinez,Phone,Audio,2,782.64,2024-04-21,South,PayPal
+1219,319,David Anderson,Phone,Peripherals,1,309.37,2024-03-11,West,PayPal
+1220,320,Emily Taylor,Headphones,Electronics,1,756.67,2024-04-27,North,Bank Transfer
+1221,321,Emma Johnson,Webcam,Accessories,2,496.01,2024-04-12,Central,Debit Card
+1222,322,Michael Brown,Phone,Peripherals,4,632.39,2024-03-31,South,Bank Transfer
+1223,323,John Smith,Phone,Computers,2,687.53,2024-09-25,North,Bank Transfer
+1224,324,David Anderson,Laptop,Electronics,2,200.94,2024-07-26,West,Bank Transfer
+1225,325,Lisa Thomas,Tablet,Accessories,4,849.90,2024-08-30,East,Cash
+1226,326,Emily Taylor,Webcam,Accessories,3,978.98,2024-08-18,North,Bank Transfer
+1227,327,Sarah Davis,Webcam,Electronics,2,606.71,2024-05-07,South,Credit Card
+1228,328,Michael Brown,Speaker,Accessories,5,95.34,2024-03-05,Central,Credit Card
+1229,329,David Anderson,Monitor,Peripherals,1,189.40,2024-11-01,Central,Debit Card
+1230,330,Sarah Davis,Charger,Accessories,3,447.90,2024-03-10,Central,Credit Card
+1231,331,Jennifer Garcia,Headphones,Electronics,2,322.41,2024-09-13,Central,PayPal
+1232,332,David Anderson,Webcam,Electronics,5,895.84,2024-09-24,East,Debit Card
+1233,333,Emily Taylor,Mouse,Computers,5,872.91,2024-10-26,West,Debit Card
+1234,334,John Smith,Headphones,Peripherals,5,574.89,2024-05-02,East,PayPal
+1235,335,Lisa Thomas,Monitor,Peripherals,1,449.46,2024-08-13,West,PayPal
+1236,336,Michael Brown,Laptop,Peripherals,4,213.57,2024-07-25,East,Credit Card
+1237,337,David Anderson,Speaker,Peripherals,3,754.78,2024-04-24,North,Bank Transfer
+1238,338,Robert Martinez,Mouse,Electronics,5,925.14,2024-09-19,West,PayPal
+1239,339,James Wilson,Monitor,Computers,4,463.09,2024-03-06,North,Credit Card
+1240,340,David Anderson,Phone,Audio,4,283.99,2024-11-25,East,Credit Card
+1241,341,Robert Martinez,Phone,Computers,2,466.39,2024-05-31,East,Cash
+1242,342,James Wilson,Monitor,Electronics,4,600.60,2024-01-13,East,Credit Card
+1243,343,Robert Martinez,Keyboard,Peripherals,4,121.98,2024-11-09,South,Credit Card
+1244,344,Emily Taylor,Laptop,Electronics,1,701.05,2024-05-16,West,Credit Card
+1245,345,Emily Taylor,Headphones,Electronics,3,268.63,2024-10-18,South,Debit Card
+1246,346,Jennifer Garcia,Laptop,Electronics,4,938.67,2024-12-03,North,PayPal
+1247,347,James Wilson,Monitor,Peripherals,1,721.29,2024-11-10,East,PayPal
+1248,348,John Smith,Tablet,Accessories,1,97.77,2024-09-13,South,Cash
+1249,349,Michael Brown,Webcam,Computers,1,735.36,2024-06-08,North,Debit Card
+1250,350,Lisa Thomas,Monitor,Computers,1,633.14,2024-05-12,East,Debit Card
+1251,351,James Wilson,Keyboard,Audio,3,878.16,2024-02-21,Central,Bank Transfer
+1252,352,Lisa Thomas,Keyboard,Peripherals,3,369.94,2024-01-04,South,PayPal
+1253,353,James Wilson,Tablet,Computers,3,401.03,2024-06-11,East,Debit Card
+1254,354,Emily Taylor,Mouse,Electronics,3,315.33,2024-02-18,Central,PayPal
+1255,355,David Anderson,Charger,Peripherals,1,130.31,2024-09-02,Central,PayPal
+1256,356,David Anderson,Keyboard,Peripherals,3,697.89,2024-09-06,West,Credit Card
+1257,357,John Smith,Laptop,Accessories,4,707.13,2024-02-23,West,Debit Card
+1258,358,Lisa Thomas,Charger,Computers,5,329.05,2024-08-23,South,Credit Card
+1259,359,Robert Martinez,Laptop,Computers,4,782.51,2024-04-01,East,Debit Card
+1260,360,John Smith,Monitor,Electronics,2,891.09,2024-04-09,Central,Bank Transfer
+1261,361,Robert Martinez,Keyboard,Accessories,4,831.49,2024-09-13,Central,Bank Transfer
+1262,362,Sarah Davis,Webcam,Computers,1,282.53,2024-09-06,North,Cash
+1263,363,John Smith,Mouse,Computers,3,299.85,2024-01-10,North,Debit Card
+1264,364,Lisa Thomas,Monitor,Peripherals,4,744.09,2024-03-07,Central,PayPal
+1265,365,Robert Martinez,Keyboard,Audio,3,817.58,2024-04-03,South,PayPal
+1266,366,Emily Taylor,Charger,Audio,2,363.40,2024-08-28,Central,Credit Card
+1267,367,Emily Taylor,Laptop,Computers,5,907.11,2024-10-29,Central,Debit Card
+1268,368,John Smith,Monitor,Accessories,4,141.84,2024-03-02,West,Bank Transfer
+1269,369,Robert Martinez,Keyboard,Computers,2,887.12,2024-11-30,Central,Credit Card
+1270,370,Emma Johnson,Headphones,Audio,5,501.70,2024-06-19,West,Credit Card
+1271,371,Michael Brown,Headphones,Peripherals,2,683.96,2024-12-01,South,Bank Transfer
+1272,372,Emma Johnson,Headphones,Accessories,2,586.39,2024-08-16,South,Credit Card
+1273,373,Sarah Davis,Laptop,Electronics,5,450.38,2024-09-05,West,Debit Card
+1274,374,David Anderson,Mouse,Accessories,2,476.80,2024-11-10,East,Bank Transfer
+1275,375,John Smith,Keyboard,Computers,1,378.35,2024-04-27,Central,PayPal
+1276,376,David Anderson,Tablet,Audio,2,779.41,2024-06-05,West,Bank Transfer
+1277,377,Sarah Davis,Webcam,Computers,5,382.12,2024-08-18,West,Credit Card
+1278,378,Emily Taylor,Monitor,Audio,1,127.27,2024-01-28,East,Credit Card
+1279,379,James Wilson,Webcam,Peripherals,3,157.20,2024-11-24,Central,Debit Card
+1280,380,John Smith,Keyboard,Computers,2,629.22,2024-01-25,Central,Cash
+1281,381,Jennifer Garcia,Monitor,Audio,1,347.50,2024-06-20,North,PayPal
+1282,382,John Smith,Monitor,Audio,2,335.87,2024-04-24,East,Credit Card
+1283,383,Jennifer Garcia,Monitor,Accessories,1,619.10,2024-12-29,Central,Cash
+1284,384,Michael Brown,Headphones,Peripherals,5,892.39,2024-06-26,Central,Cash
+1285,385,Michael Brown,Laptop,Computers,2,331.54,2024-12-27,South,Credit Card
+1286,386,John Smith,Charger,Computers,5,446.14,2024-09-01,South,PayPal
+1287,387,David Anderson,Speaker,Computers,5,337.48,2024-10-02,North,Credit Card
+1288,388,James Wilson,Webcam,Peripherals,1,746.61,2024-09-03,West,Debit Card
+1289,389,Sarah Davis,Keyboard,Audio,5,918.72,2024-08-16,East,Credit Card
+1290,390,John Smith,Speaker,Computers,5,85.80,2024-05-21,West,Debit Card
+1291,391,Jennifer Garcia,Webcam,Computers,5,393.81,2024-09-29,South,Cash
+1292,392,Michael Brown,Headphones,Audio,1,182.18,2024-04-04,East,Credit Card
+1293,393,Lisa Thomas,Keyboard,Computers,3,240.67,2024-05-13,East,PayPal
+1294,394,James Wilson,Phone,Accessories,5,856.36,2024-10-05,North,Debit Card
+1295,395,Lisa Thomas,Tablet,Audio,5,309.30,2024-01-04,Central,PayPal
+1296,396,John Smith,Keyboard,Electronics,4,512.73,2024-01-24,East,Credit Card
+1297,397,James Wilson,Keyboard,Electronics,3,979.04,2024-11-09,East,Cash
+1298,398,John Smith,Tablet,Accessories,5,961.65,2024-12-22,North,PayPal
+1299,399,David Anderson,Mouse,Audio,5,121.56,2024-05-05,Central,PayPal
+1300,400,Emily Taylor,Speaker,Electronics,2,317.94,2024-07-31,East,Bank Transfer
+1301,401,Sarah Davis,Laptop,Peripherals,1,210.02,2024-11-05,Central,Credit Card
+1302,402,James Wilson,Speaker,Audio,3,219.86,2024-08-03,North,Debit Card
+1303,403,John Smith,Keyboard,Peripherals,3,172.99,2024-06-18,Central,Cash
+1304,404,John Smith,Laptop,Accessories,5,277.08,2024-06-01,South,Cash
+1305,405,Emily Taylor,Phone,Audio,2,128.22,2024-05-07,South,Credit Card
+1306,406,John Smith,Headphones,Computers,5,386.22,2024-01-12,North,Bank Transfer
+1307,407,James Wilson,Charger,Computers,4,310.55,2024-11-20,North,Cash
+1308,408,Jennifer Garcia,Keyboard,Peripherals,5,76.93,2024-11-05,Central,Debit Card
+1309,409,David Anderson,Tablet,Audio,2,398.52,2024-05-10,Central,PayPal
+1310,410,David Anderson,Monitor,Accessories,2,199.84,2024-06-05,South,PayPal
+1311,411,Lisa Thomas,Keyboard,Computers,2,99.94,2024-09-04,Central,Bank Transfer
+1312,412,Emily Taylor,Webcam,Computers,3,926.29,2024-07-30,Central,Debit Card
+1313,413,Jennifer Garcia,Phone,Accessories,1,531.12,2024-05-03,North,Cash
+1314,414,Emily Taylor,Laptop,Electronics,2,997.65,2024-04-16,East,Cash
+1315,415,Emma Johnson,Headphones,Electronics,3,172.49,2023-12-31,Central,Cash
+1316,416,John Smith,Monitor,Peripherals,5,120.64,2024-04-14,East,Cash
+1317,417,Emma Johnson,Speaker,Electronics,5,184.02,2024-11-23,Central,Bank Transfer
+1318,418,Lisa Thomas,Tablet,Audio,4,432.72,2024-01-06,West,Credit Card
+1319,419,Robert Martinez,Headphones,Computers,3,743.95,2024-02-23,South,Cash
+1320,420,Emma Johnson,Charger,Electronics,4,691.88,2024-06-11,Central,PayPal
+1321,421,Emily Taylor,Charger,Accessories,1,291.41,2024-12-24,West,Bank Transfer
+1322,422,Jennifer Garcia,Speaker,Electronics,3,638.65,2024-05-20,North,Debit Card
+1323,423,James Wilson,Monitor,Electronics,4,430.38,2024-07-30,North,Credit Card
+1324,424,James Wilson,Speaker,Audio,2,948.31,2024-07-24,South,Credit Card
+1325,425,Jennifer Garcia,Speaker,Peripherals,2,892.60,2024-02-03,South,Credit Card
+1326,426,Robert Martinez,Laptop,Peripherals,1,902.78,2024-06-02,South,PayPal
+1327,427,John Smith,Laptop,Audio,1,1035.52,2024-05-30,South,PayPal
+1328,428,Lisa Thomas,Monitor,Computers,3,846.12,2024-09-12,South,Bank Transfer
+1329,429,Jennifer Garcia,Phone,Audio,2,852.70,2024-09-07,Central,Cash
+1330,430,Sarah Davis,Monitor,Electronics,3,436.47,2024-05-17,East,Bank Transfer
+1331,431,James Wilson,Charger,Computers,5,637.77,2024-01-02,East,Credit Card
+1332,432,Robert Martinez,Mouse,Accessories,2,614.08,2024-12-23,Central,Credit Card
+1333,433,Robert Martinez,Headphones,Accessories,2,310.20,2024-05-23,Central,Debit Card
+1334,434,Jennifer Garcia,Webcam,Audio,1,792.77,2024-02-28,East,Debit Card
+1335,435,John Smith,Phone,Accessories,2,126.88,2024-09-03,North,Debit Card
+1336,436,Lisa Thomas,Charger,Audio,5,1049.14,2024-08-11,East,Credit Card
+1337,437,James Wilson,Laptop,Audio,3,112.31,2024-11-09,North,Bank Transfer
+1338,438,Sarah Davis,Tablet,Peripherals,5,705.18,2024-08-03,Central,Cash
+1339,439,Michael Brown,Monitor,Electronics,1,361.08,2024-12-17,Central,Credit Card
+1340,440,Emily Taylor,Speaker,Electronics,1,743.07,2024-09-17,East,PayPal
+1341,441,Emma Johnson,Phone,Electronics,2,702.79,2024-02-26,Central,PayPal
+1342,442,Michael Brown,Speaker,Computers,2,743.89,2024-09-29,Central,Bank Transfer
+1343,443,Sarah Davis,Laptop,Computers,3,572.92,2024-07-01,West,Credit Card
+1344,444,Lisa Thomas,Mouse,Electronics,5,54.16,2024-09-01,East,PayPal
+1345,445,John Smith,Laptop,Peripherals,3,816.30,2024-10-02,North,Debit Card
+1346,446,Emily Taylor,Charger,Peripherals,1,293.93,2024-08-22,Central,Debit Card
+1347,447,Lisa Thomas,Webcam,Accessories,5,234.97,2024-07-04,East,PayPal
+1348,448,Emily Taylor,Headphones,Computers,4,900.72,2024-02-15,West,Bank Transfer
+1349,449,Robert Martinez,Keyboard,Audio,5,371.27,2024-12-04,Central,Bank Transfer
+1350,450,Michael Brown,Speaker,Accessories,3,149.04,2024-04-21,West,Debit Card
+1351,451,James Wilson,Phone,Computers,2,148.97,2024-04-30,Central,Bank Transfer
+1352,452,Robert Martinez,Phone,Computers,2,896.51,2024-09-03,North,Credit Card
+1353,453,Sarah Davis,Phone,Electronics,5,209.83,2024-06-04,West,Debit Card
+1354,454,John Smith,Headphones,Audio,2,262.55,2024-10-10,South,Bank Transfer
+1355,455,John Smith,Monitor,Peripherals,4,482.72,2024-05-30,Central,Cash
+1356,456,David Anderson,Keyboard,Computers,2,1007.58,2024-10-15,West,Credit Card
+1357,457,John Smith,Charger,Electronics,3,909.88,2024-02-24,East,Cash
+1358,458,Robert Martinez,Mouse,Computers,4,1038.70,2024-02-19,Central,Cash
+1359,459,David Anderson,Monitor,Audio,3,983.38,2024-01-17,Central,Credit Card
+1360,460,Emily Taylor,Keyboard,Computers,5,928.22,2024-09-16,East,Cash
+1361,461,David Anderson,Headphones,Computers,2,54.65,2024-09-02,West,Credit Card
+1362,462,Sarah Davis,Laptop,Accessories,2,433.01,2024-03-07,East,Cash
+1363,463,Sarah Davis,Charger,Electronics,1,802.93,2024-04-10,East,Bank Transfer
+1364,464,Jennifer Garcia,Mouse,Audio,4,1045.77,2024-03-26,Central,Cash
+1365,465,John Smith,Monitor,Electronics,5,585.27,2024-01-17,Central,Debit Card
+1366,466,Emma Johnson,Charger,Audio,2,785.57,2024-02-29,South,PayPal
+1367,467,Robert Martinez,Monitor,Electronics,1,771.01,2024-12-20,South,Credit Card
+1368,468,James Wilson,Phone,Audio,5,117.65,2024-08-07,South,Debit Card
+1369,469,Lisa Thomas,Phone,Electronics,1,947.37,2024-10-11,North,Cash
+1370,470,Emily Taylor,Webcam,Electronics,5,989.03,2024-07-24,North,Debit Card
+1371,471,Lisa Thomas,Phone,Audio,4,183.14,2024-07-11,West,Cash
+1372,472,David Anderson,Headphones,Audio,3,219.43,2024-11-19,East,Cash
+1373,473,James Wilson,Speaker,Accessories,2,566.49,2024-03-03,East,Bank Transfer
+1374,474,Michael Brown,Keyboard,Peripherals,4,725.40,2024-03-16,West,PayPal
+1375,475,Jennifer Garcia,Charger,Accessories,2,387.50,2024-09-11,Central,Bank Transfer
+1376,476,James Wilson,Laptop,Accessories,3,385.60,2024-11-26,West,Credit Card
+1377,477,James Wilson,Webcam,Accessories,2,963.11,2024-03-13,East,Cash
+1378,478,Michael Brown,Webcam,Accessories,5,97.64,2024-06-29,South,Cash
+1379,479,Emma Johnson,Mouse,Computers,4,786.51,2024-05-06,South,Debit Card
+1380,480,James Wilson,Speaker,Peripherals,3,1045.28,2024-05-16,Central,Debit Card
+1381,481,Sarah Davis,Headphones,Peripherals,2,828.81,2024-03-23,Central,Bank Transfer
+1382,482,Michael Brown,Monitor,Computers,3,57.31,2024-10-16,West,Cash
+1383,483,Robert Martinez,Tablet,Accessories,2,586.72,2024-06-22,East,PayPal
+1384,484,Emma Johnson,Webcam,Accessories,3,871.98,2024-01-05,East,Debit Card
+1385,485,James Wilson,Headphones,Audio,2,190.39,2024-02-11,Central,Bank Transfer
+1386,486,Robert Martinez,Charger,Electronics,2,935.31,2024-06-26,West,Bank Transfer
+1387,487,Sarah Davis,Phone,Electronics,4,510.09,2024-01-08,North,Credit Card
+1388,488,Michael Brown,Webcam,Computers,2,1028.99,2024-01-28,West,Debit Card
+1389,489,Emma Johnson,Charger,Peripherals,5,940.44,2024-07-07,East,PayPal
+1390,490,Michael Brown,Laptop,Electronics,4,310.31,2024-08-31,Central,Cash
+1391,491,Robert Martinez,Webcam,Accessories,4,561.78,2024-08-20,East,Debit Card
+1392,492,Emily Taylor,Keyboard,Audio,5,516.09,2024-08-25,West,PayPal
+1393,493,Emma Johnson,Laptop,Accessories,1,1038.42,2024-05-30,Central,PayPal
+1394,494,Emily Taylor,Speaker,Accessories,2,632.95,2024-02-03,East,Credit Card
+1395,495,David Anderson,Tablet,Electronics,3,813.12,2024-03-02,South,Debit Card
+1396,496,David Anderson,Webcam,Accessories,5,1028.66,2024-08-07,East,Debit Card
+1397,497,Lisa Thomas,Mouse,Computers,3,512.84,2024-09-24,West,Debit Card
+1398,498,James Wilson,Tablet,Peripherals,1,243.85,2024-05-18,North,PayPal
+1399,499,Lisa Thomas,Headphones,Electronics,1,784.06,2024-12-13,West,Bank Transfer
+1400,500,Sarah Davis,Mouse,Accessories,2,791.73,2024-11-22,Central,PayPal
+1401,501,Lisa Thomas,Speaker,Audio,4,885.56,2024-02-02,Central,PayPal
+1402,502,Jennifer Garcia,Tablet,Computers,2,696.56,2024-04-12,Central,Debit Card
+1403,503,Emma Johnson,Mouse,Computers,1,568.60,2024-11-15,East,PayPal
+1404,504,Michael Brown,Speaker,Computers,1,274.32,2024-07-20,West,Bank Transfer
+1405,505,Emma Johnson,Webcam,Peripherals,1,370.84,2024-08-12,West,Debit Card
+1406,506,John Smith,Mouse,Electronics,3,362.12,2024-10-23,North,PayPal
+1407,507,Emma Johnson,Headphones,Peripherals,1,457.49,2024-05-01,Central,PayPal
+1408,508,Lisa Thomas,Charger,Accessories,5,412.10,2024-11-07,North,Credit Card
+1409,509,Emily Taylor,Laptop,Accessories,2,908.27,2024-03-15,North,Debit Card
+1410,510,Sarah Davis,Monitor,Audio,5,807.66,2024-06-15,West,PayPal
+1411,511,Michael Brown,Headphones,Electronics,5,545.45,2024-05-30,East,Bank Transfer
+1412,512,David Anderson,Charger,Accessories,1,62.77,2024-09-24,Central,Debit Card
+1413,513,Jennifer Garcia,Mouse,Computers,1,813.19,2024-04-24,Central,Credit Card
+1414,514,Jennifer Garcia,Speaker,Computers,4,671.32,2024-09-08,North,Cash
+1415,515,Jennifer Garcia,Keyboard,Electronics,4,771.57,2024-09-24,Central,Bank Transfer
+1416,516,Emma Johnson,Tablet,Peripherals,5,892.44,2024-09-06,Central,PayPal
+1417,517,Lisa Thomas,Charger,Electronics,3,688.57,2024-01-04,South,Bank Transfer
+1418,518,David Anderson,Monitor,Peripherals,4,374.68,2024-01-15,West,Bank Transfer
+1419,519,David Anderson,Speaker,Computers,5,976.70,2024-07-23,West,Credit Card
+1420,520,Emily Taylor,Tablet,Peripherals,3,346.82,2024-01-14,South,Credit Card
+1421,521,Robert Martinez,Monitor,Accessories,3,488.19,2024-11-12,North,Credit Card
+1422,522,Sarah Davis,Monitor,Peripherals,3,861.31,2024-06-07,East,PayPal
+1423,523,James Wilson,Phone,Electronics,5,167.85,2024-03-09,North,Cash
+1424,524,Jennifer Garcia,Webcam,Audio,2,963.92,2024-08-24,Central,Credit Card
+1425,525,Emily Taylor,Webcam,Computers,4,635.14,2024-07-19,South,Debit Card
+1426,526,Lisa Thomas,Headphones,Audio,2,128.81,2024-12-27,West,Credit Card
+1427,527,Emma Johnson,Webcam,Audio,2,909.16,2024-01-05,West,Debit Card
+1428,528,Jennifer Garcia,Webcam,Electronics,4,1031.00,2024-06-08,South,Cash
+1429,529,Robert Martinez,Keyboard,Electronics,3,587.34,2024-07-24,North,Bank Transfer
+1430,530,Lisa Thomas,Laptop,Electronics,3,940.33,2024-02-22,South,Credit Card
+1431,531,David Anderson,Tablet,Audio,5,204.07,2024-05-12,East,Bank Transfer
+1432,532,Lisa Thomas,Laptop,Computers,5,68.56,2024-06-01,South,Cash
+1433,533,Michael Brown,Charger,Accessories,5,85.49,2024-01-31,West,Bank Transfer
+1434,534,David Anderson,Laptop,Peripherals,5,253.73,2024-04-28,South,Credit Card
+1435,535,Lisa Thomas,Phone,Accessories,1,988.80,2024-03-19,Central,Bank Transfer
+1436,536,David Anderson,Tablet,Electronics,1,503.35,2024-02-01,South,PayPal
+1437,537,Sarah Davis,Charger,Peripherals,2,468.95,2024-10-04,Central,Credit Card
+1438,538,Emma Johnson,Monitor,Electronics,4,831.23,2024-05-27,Central,Debit Card
+1439,539,Sarah Davis,Phone,Electronics,2,400.94,2024-03-18,West,Bank Transfer
+1440,540,Jennifer Garcia,Keyboard,Computers,4,334.01,2024-07-31,North,Credit Card
+1441,541,David Anderson,Keyboard,Electronics,2,408.72,2024-11-26,East,Cash
+1442,542,Emma Johnson,Mouse,Computers,5,389.37,2024-09-06,West,Bank Transfer
+1443,543,James Wilson,Speaker,Audio,2,328.08,2024-01-15,Central,Cash
+1444,544,Emma Johnson,Monitor,Computers,1,308.68,2024-12-28,South,Credit Card
+1445,545,Jennifer Garcia,Phone,Electronics,4,215.83,2024-07-09,North,PayPal
+1446,546,Emily Taylor,Laptop,Accessories,1,466.51,2024-07-19,West,Cash
+1447,547,John Smith,Speaker,Computers,4,471.19,2024-08-23,South,Debit Card
+1448,548,Emma Johnson,Keyboard,Accessories,5,87.97,2024-06-07,North,Cash
+1449,549,James Wilson,Tablet,Peripherals,4,201.21,2024-04-01,Central,Cash
+1450,550,Robert Martinez,Phone,Peripherals,1,808.04,2024-02-23,Central,Cash
+1451,551,Emma Johnson,Keyboard,Computers,3,313.87,2024-03-20,Central,Cash
+1452,552,David Anderson,Headphones,Accessories,3,723.76,2024-10-08,West,Debit Card
+1453,553,Emma Johnson,Headphones,Peripherals,4,694.22,2024-10-15,Central,PayPal
+1454,554,Lisa Thomas,Webcam,Accessories,4,231.18,2024-03-27,South,Debit Card
+1455,555,John Smith,Laptop,Peripherals,3,180.49,2024-04-20,South,Cash
+1456,556,James Wilson,Monitor,Peripherals,4,732.50,2024-09-11,North,Cash
+1457,557,Jennifer Garcia,Mouse,Computers,4,859.99,2024-09-02,Central,Debit Card
+1458,558,David Anderson,Charger,Audio,4,65.04,2024-11-23,South,Bank Transfer
+1459,559,Emma Johnson,Charger,Electronics,1,760.58,2024-09-15,South,PayPal
+1460,560,Jennifer Garcia,Charger,Computers,3,244.98,2024-06-16,North,Cash
+1461,561,Sarah Davis,Headphones,Audio,4,1006.03,2024-05-27,West,Cash
+1462,562,Robert Martinez,Laptop,Computers,3,142.96,2024-10-10,South,Cash
+1463,563,John Smith,Mouse,Accessories,2,508.19,2024-04-16,South,Credit Card
+1464,564,Emma Johnson,Speaker,Audio,3,719.25,2024-08-01,North,Debit Card
+1465,565,John Smith,Speaker,Accessories,5,668.48,2024-07-17,East,Credit Card
+1466,566,James Wilson,Tablet,Peripherals,4,326.72,2024-09-15,North,Bank Transfer
+1467,567,Michael Brown,Charger,Audio,3,581.00,2024-12-08,North,Cash
+1468,568,Lisa Thomas,Phone,Accessories,2,968.82,2024-03-12,East,Debit Card
+1469,569,James Wilson,Monitor,Accessories,4,813.15,2024-12-23,East,Cash
+1470,570,David Anderson,Headphones,Peripherals,4,193.56,2024-10-05,West,Debit Card
+1471,571,Lisa Thomas,Phone,Electronics,5,441.03,2024-07-17,North,Cash
+1472,572,John Smith,Headphones,Computers,2,457.18,2024-11-25,West,Credit Card
+1473,573,Sarah Davis,Phone,Peripherals,5,314.17,2024-02-05,East,Credit Card
+1474,574,Emma Johnson,Charger,Accessories,4,516.16,2024-11-28,Central,Cash
+1475,575,David Anderson,Speaker,Computers,4,952.55,2024-08-01,East,Debit Card
+1476,576,Michael Brown,Monitor,Electronics,2,1001.44,2024-05-22,North,Cash
+1477,577,Lisa Thomas,Headphones,Peripherals,1,457.48,2024-03-27,Central,Debit Card
+1478,578,Lisa Thomas,Speaker,Audio,4,75.59,2024-01-29,North,Debit Card
+1479,579,Lisa Thomas,Charger,Electronics,1,507.75,2024-01-11,West,Debit Card
+1480,580,Emma Johnson,Phone,Peripherals,4,179.06,2024-09-16,Central,Bank Transfer
+1481,581,Sarah Davis,Charger,Accessories,4,1045.54,2024-01-07,South,Bank Transfer
+1482,582,Michael Brown,Webcam,Peripherals,3,439.06,2024-06-21,South,Bank Transfer
+1483,583,David Anderson,Tablet,Computers,4,956.90,2024-10-03,Central,Cash
+1484,584,Michael Brown,Monitor,Accessories,2,72.71,2024-02-25,West,Cash
+1485,585,Jennifer Garcia,Mouse,Peripherals,2,613.73,2024-01-07,East,Cash
+1486,586,James Wilson,Keyboard,Audio,5,886.73,2024-04-17,East,Cash
+1487,587,David Anderson,Tablet,Electronics,5,913.40,2024-02-22,West,Debit Card
+1488,588,Jennifer Garcia,Headphones,Computers,2,827.08,2024-02-11,East,Bank Transfer
+1489,589,Sarah Davis,Headphones,Peripherals,4,853.76,2024-10-25,West,PayPal
+1490,590,James Wilson,Tablet,Audio,1,975.85,2024-10-03,East,Cash
+1491,591,Jennifer Garcia,Mouse,Accessories,1,134.66,2024-08-01,Central,Debit Card
+1492,592,Sarah Davis,Monitor,Computers,5,286.24,2024-10-12,South,Bank Transfer
+1493,593,John Smith,Keyboard,Electronics,5,645.52,2024-10-10,Central,Credit Card
+1494,594,Michael Brown,Laptop,Electronics,1,62.75,2024-12-24,North,PayPal
+1495,595,Robert Martinez,Charger,Audio,1,763.20,2024-12-06,South,Debit Card
+1496,596,David Anderson,Webcam,Computers,4,901.25,2024-04-22,East,Cash
+1497,597,Emma Johnson,Webcam,Accessories,2,129.93,2024-05-21,East,Credit Card
+1498,598,David Anderson,Webcam,Accessories,5,602.78,2024-02-02,West,Cash
+1499,599,James Wilson,Phone,Peripherals,5,547.90,2024-09-03,Central,Cash
+1500,600,Emily Taylor,Tablet,Peripherals,5,833.21,2024-09-20,South,Cash
